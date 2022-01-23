@@ -1,0 +1,531 @@
+Game Identification Number,Name,Genre(s),Mode(s),Platform(s)
+1,Grand Theft Auto,Action-adventure,Single-player,"Android, Dreamcast, Fire OS, Game Boy Advance, Game Boy Color, iOS, MacOS, Microsoft Windows, MS-DOS, Nintendo DS, PlayStation, PlayStation 2, PlayStation 3, PlayStation 4, PlayStation Portable, Windows Phone, Xbox, Xbox 360, Xbox One  "
+2,Grand Theft Auto 2,Action-adventure,"Single-player, multiplayer","Microsoft Windows, PlayStation, Dreamcast, Game Boy Color"
+3,Grand Theft Auto 3: Liberty City,Action-adventure,Single-player,"PlayStation 2, Microsoft Windows, Xbox, Mac OS X, Android, iOS, Fire OS"
+4,Grand Theft Auto: Vice City,Action-adventure,Single-player,"PlayStation 2, Microsoft Windows, Xbox, Mac OS X, Android, iOS, Fire OS"
+5,Grand Theft Auto: San Andreas,Action-adventure,"Single-player, multiplayer","PlayStation 2, Microsoft Windows, Xbox, Mac OS X, Android, iOS, Fire OS, Windows Phone, Xbox 360, PlayStation 3"
+6,Grand Theft Auto: Liberty City Stories,Action-adventure,"Single-player, multiplayer","PlayStation Portable, PlayStation 2, iOS, Android, Fire OS"
+7,Grand Theft Auto: Vice City Stories,Action-adventure,"Single-player, multiplayer","PlayStation Portable, PlayStation 2"
+8,Grand Theft Auto IV,Action-adventure,"Single-player, multiplayer","PlayStation 3, Xbox 360, Microsoft Windows"
+9,Grand Theft Auto IV: The Lost and Dammed,Action-adventure,"Single-player, multiplayer","PlayStation 3, Xbox 360, Microsoft Windows"
+10,Grand Theft Auto IV: The Ballad of the Gay Tony,Action-adventure,"Single-player, multiplayer","PlayStation 3, Xbox 360, Microsoft Windows"
+11,Grand Theft Auto V,Action-adventure,"Single-player, multiplayer","PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Microsoft Windows"
+12,The Need For Speed,Racing,"Single-player, multiplayer","3DO, Android, Arcade, DOS, Game Boy Advance, iOS, Kindle Fire, Mac OS X, Microsoft Windows, Mobile game, MS-DOS, Nintendo 3DS, Nintendo DS, Nintendo GameCube, OS X, PlayStation, PlayStation 2, PlayStation 3, PlayStation 4, PlayStation Portable, PlayStation Vita, Sega Saturn, Wii, Wii U, Windows Mobile, Windows Phone, Xbox, Xbox 360, Xbox One, Zeebo"
+13,Need For Speed II,Racing,"Single-player, multiplayer","PlayStation, Microsoft Windows"
+14,NFS III: Hot Pursuit,Racing,"Single-player, multiplayer","PlayStation, Microsoft Windows"
+15,NFS: High Stakes,Racing,"Single-player, multiplayer","PlayStation, Microsoft Windows"
+16,NFS: Porsche Unleashed,Racing,"Single-player, multiplayer","PlayStation, Microsoft Windows, Game Boy Advance"
+17,NFS: Hot Pursuit 2,Racing,"Single-player, multiplayer","PlayStation 2, GameCube, Xbox, Microsoft Windows"
+18,NFS: Underground,Racing,"Single-player, multiplayer","PlayStation 2, GameCube, Xbox, Microsoft Windows, Game Boy Advance"
+19,NFS: Underground 2,Racing,"Single-player, multiplayer","Microsoft Windows, Game Boy Advance, GameCube, PlayStation 2, Xbox, PlayStation Portable, Nintendo DS, mobile phone"
+20,NFS: Most Wanted 2005,Racing,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, PlayStation Vita, Xbox 360, iOS, Android, Kindle Fire, Wii U"
+21,NFS: Carbon,Racing,"Single-player, multiplayer","Windows, Mac OS X, PlayStation 3, Xbox 360, Wii, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, mobile phone, Zeebo, arcade "
+22,NFS: Pro Street,Racing,"Single-player, multiplayer","PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Nintendo DS, Xbox 360, Microsoft Windows"
+23,NFS: Undercover,Racing,"Single-player, multiplayer","Microsoft Windows, Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Xbox 360, BlackBerry, iOS, Symbian, WebOS, Windows Phone"
+24,NFS: Shift,Racing,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, Xbox 360, PlayStation Portable, iOS, Android, Symbian, Windows Mobile, MeeGo, J2ME"
+25,NFS: Nitro,Racing,"Single-player, multiplayer","Nintendo DS, Wii"
+26,NFS: World,Massively multiplayer online racing game,Multiplayer,Microsoft Windows
+27,NFS: Hot Pursuit ,Racing,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, Wii, Xbox 360, iOS, Android, WebOS, Windows Phone, Java ME"
+28,Shift 2: Unleashed,Racing,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, iOS, Xbox 360"
+29,NFS: The Run,Racing,"Single-player, multiplayer","Microsoft Windows, Nintendo 3DS, PlayStation 3, Wii, Xbox 360"
+30,NFS: Most Wanted 2012,Racing,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, PlayStation Vita, Xbox 360, iOS, Android, Kindle Fire, Wii U"
+31,NFS: Rivals,Racing,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One"
+32,NFS: No Limits,Racing,"Single-player, multiplayer","iOS, Android"
+33,Need For Speed,Racing,"Single-player, multiplayer","Microsoft Windows, PlayStation 4, Xbox One"
+34,NFS Payback,Racing,"Single-player, multiplayer","Microsoft Windows, PlayStation 4, Xbox One"
+35,NFS Heat,Racing,"Single-player, multiplayer","Microsoft Windows, PlayStation 4, Xbox One"
+36,Cyberpunk 2077,Role-playing,"Single-player, multiplayer","Microsoft Windows, PlayStation 4, Stadia, Xbox One"
+37,The Last of Us,"Action-adventure, survival horror","Single-player, multiplayer","PlayStation 3, PlayStation 4"
+38,Call of Duty,First-person shooter,"Single-player, multiplayer","Microsoft Windows, OS X, N-Gage"
+39,Call of Duty 2,First-person shooter,"Single-player, multiplayer","Microsoft Windows, mobile, Xbox 360, OS X"
+40,Call of Duty 3,First-person shooter,"Single-player, multiplayer","PlayStation 2, PlayStation 3, Wii, Xbox, Xbox 360"
+41,Call of Duty 4: Modern Warfare,First-person shooter,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, Xbox 360, Mac OS X, Wii"
+42,Call of Duty: World at War,First-person shooter,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, Wii, Xbox 360"
+43,Call of Duty: Modern Warfare 2,First-person shooter,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, Xbox 360, macOS"
+44,Call of Duty: Black Ops,First-person shooter,"Single-player, multiplayer","Microsoft Windows, Nintendo Ds, PlayStation 3, Wii, Xbox 360, OS X"
+45,Call of Duty: Modern Warfare 3,First-person shooter,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, Wii, Xbox 360"
+46,Call of Duty: Black Ops II,First-person shooter,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, Xbox 360, Wii U"
+47,Call of Duty: Ghosts,First-person shooter,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, PlayStation 4, Wii U, Xbox 360, Xbox One"
+48,Call of Duty: Advanced Warfare,First-person shooter,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One"
+49,Call of Duty: Black Ops III,First-person shooter,"Single-player, multiplayer","Microsoft Windows, Mac OS, PlayStation 3, PlayStation 4, Xbox 360, Xbox One"
+50,Call of Duty: Infinite Warfare,First-person shooter,"Single-player, multiplayer","Microsoft Windows, PlayStation 4, Xbox One"
+51,Call of Duty: WWII,First-person shooter,"Single-player, multiplayer","Microsoft Windows, PlayStation 4, Xbox One"
+52,Call of Duty: Black Ops 4,"First-person shooter, Battle royale",Multiplayer,"Microsoft Windows, PlayStation 4, Xbox One"
+53,Call of Duty: Modern Warfare,First-person shooter,"Single-player, multiplayer","Microsoft Windows, playStation 4, Xbox One"
+54,Max Payne,Third-person shooter,Single-player,"Microsoft Windows, playStation 2, Xbox, Mac OS X, Game Boy Advance, iOS, Android"
+55,Max Payne 2: The Fall of Max Payne,Third-person shooter,Single-player,"Microsoft Windows, PlayStation 2, Xbox"
+56,Max Payne 3,Third-person shooter,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, Xbox 360, OS X"
+57,Prince of Persia,Cinematic platformer,Single-player,Apple II
+58,Prince of Persia 2,Cinematic platformer,Single-player,"MS-DOS, Mac OS, SNES, FM Towns, Android, iOS, Xbox"
+59,Prince of Persia 3D,Action-adventure,Single-player,"Microsoft Windows, Dreamcast"
+60,The Sands of Time,"Action-adventure, hack and slash, puzzle-platform",Single-player,"Game Boy Advance, PlayStation 2, GameCube, Xbox, Microsoft Windows, mobile, PlayStation 3"
+61,Warrior Within,"Action-adventure, platform, hack and slash",Single-player,"PlayStation 2, GameCube, Xbox, Windows, PlayStation 3, iOS, PlayStation Portable, Steam"
+62,The Two Thrones,"Action-adventure, hack and slash, platform",Single-player,"GameCube, Microsoft Windows, PlayStation 2, Xbox, Mobile, PlayStation Portable, Wii, Mac OS X, PlayStation 3"
+63,Battles of Prince of Persia,Turn-based tactics,"Single-player, multiplayer",Nintendo DS
+64,Prince of Persia: The Fallen King,"Action-adventure, Platform",Single-player,Nintendo DS
+65,Price of Persia: The Forgotten Sands,Action-adventure,Single-player,"PlayStation 3, Xbox 360, Wii, Microsoft Windows, Nintendo DS, PlayStation Portable"
+66,Wii Sports,Sports,"Single-player, multiplayer",Wii
+67,Super Mario Bros.,Platform,"Single-player, multiplayer",Nintendo Entertainment System
+68,Mario Kart Wii,Racing,Single-player,Wii
+69,Wii Sports Resort,Sports,"Single-player, multiplayer",Wii
+70,Pokemon Red/Pokemon Blue,Role-playing,"Single-player, multiplayer","Game Boy, Game Boy Color"
+71,Tetris,"Puzzle, Tile-matching","Single-player, multiplayer",Game Boy
+72,Mario Kart 7,Kart racing,"Single-player, multiplayer",Nintendo 3DS
+73,Animal Crossing: Wild World,Social simulation game,"Single-player, multiplayer",Nintendo DS
+74,Halo 3,First-person shooter,"Single-player, multiplayer","Xbox 360, Xbox One, Windows"
+75,Super Mario Galaxy,Platform,"Single-player, multiplayer"," Wii, Shield Android TV"
+76,Super Mario All-Stars,"Platform, compilation","Single-player, multiplayer",Super NES
+77,Minecraft,"Sandbox, survival","Single-player, multiplayer","Windows, Mac OS, Linux"
+78,Animal Crossing: New Leaf,Social simulation,"Single-player, multiplayer",Nintendo 3DS
+79,Mario Party DS,Party game,"Single-player, multiplayer",Nintendo DS
+80,FIFA 16,Sports,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Android, iOS"
+81,Mario Party 8,Party,"Single-player, multiplayer",Wii
+82,FIFA Soccer 13,Sports,"Single-player, multiplayer","Microsoft Windows, PlayStation 3"
+83,The Sims 3,Life-simulation,Single-player,"Microsoft Windows, OS X, Android, Blackberry OS, Windows Phone, iOS, PlayStation 3, Xbox 360, Nintendo DS, Wii, Nintendo 3DS"
+84,GoldenEye 007,"First-person shooter, stealth","Single-player, multiplayer",Nintendo 64
+85,Final Fantasy X,Role-playing,Single-player,PlayStation 2
+86,Final Fantasy VIII,Role-playing,Single-player,"PlayStation, Microsoft Windows, Nintendo Switch, PlayStation 4,  Xbox One"
+87,Pokemon Platinum,Role-playing,"Single-player, multiplayer",Nintendo DS
+88,Pac-Man,Maze,"Single-player, multiplayer",Arcade
+89,Super Mario Galaxy 2,Platforming,"Single-player, multiplayer",Wii
+90,The Legend of Zelda: Ocarina of Time,Action-adventure,Single-player,"Nintendo 64, GameCube, iQue Player"
+91,Crash Bandicoot 2: Cortex Strikes Back,Platformer,Single-player,PlayStation
+92,Super Mario Bros. 2,Platformer,Single-player,"NES, Arcade (PlayChoice-10), Super NES (SMAS), Game Boy Advance (Super Mario Advance)"
+93,Battlefield 3,First-person shooter,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, Xbox 360"
+94,The Legend of Zelda: Twilight Princess,Action-adventure,Single-player,"Wii, GameCube, Nvidia Shield TV"
+95,Just Dance,Rhythm,"Single-player, multiplayer",Wii
+96,Tekken 3,Fighting,"Single-player, multiplayer","Arcade, PlayStation"
+97,Crash Bandicoot: Warped,Platformer,Single-player,PlayStation
+98,Super Smash Bros. Melee,Fighting,"Single-player, multiplayer",GameCube
+99,Mario Kart 8,Kart racing,"Single-player, multiplayer","Wii U, Nintendo Switch"
+100,Fallout 4,Action role-playing,Single-player,"Microsoft Windows, PlayStation 4, Xbox One"
+101,Mario Kart: Double Dash,Racing,"Single-player, multiplayer",GameCube
+102,Just Dance 4,Rhythm,1-4 players,"Wii, Xbox 360, PlayStation 3, Wii U"
+103,FIFA 14,Sports game,"Single-player, multiplayer","Android, iOS, Microsoft Windows, PlayStation 2, PlayStation 3, PlayStation 4, PlayStation Portable, PlayStation Vita, Wii, Xbox 360, Xbox One"
+104,Medal of Honor: Frontline,First-person shooter,"Single-player, multiplayer","PlayStation 2, GameCube, Xbox"
+105,Uncharted 3: Drake's Deception,"Action-adventure, third-person shooter, platformer","Single-player, multiplayer","PlayStation 3, PlayStation 4"
+106,Zumba Fitness,Fitness game,"Single-player, multiplayer, online multiplayer","PlayStation 3, Wii, Xbox 360"
+107,Gears of War 2,Third-person shooter,"Single-player, multiplayer",Xbox 360
+108,Uncharted 2: Among Thieves,"Action-adventure, platformer, third-person shooter","Single-player, multiplayer","PlayStation 3, PlayStation 4"
+109,FIFA 12,Sports,"Single-player, multiplayer","Microsoft Windows, OS X, PlayStation 2, PlayStation 3, Xbox 360, Wii, PlayStation Portable, Nintendo 3DS, PlayStation Vita, iOS, Android, Java ME, Xperia Play"
+110,Big Brain Academy,"Puzzle, educational","Single-player, multiplayer",Nintendo DS
+111,FIFA 15,Sports,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, PlayStation 4, Wii, Xbox 360, Xbox One, PlayStation Vita, Nintendo 3DS, iOS, Android, Windows Phone"
+112,Donkey Kong Country Returns,Platformer,"Single-player, multiplayer","Wii, Nintendo 3DS, Wii U, Nvidia Shield"
+113,The Elder Scrolls V: Skyrim,Action role-playing,Single-player,"Microsoft Windows, PlayStation 3, Xbox 360, PlayStation 4, Xbox One, Nintendo Switch"
+114,Halo: Combat Evolved,First-person shooter,"Single-player, multiplayer","Xbox, Windows, Mac OS X"
+115,Pok?mon Emerald,Role-playing,"Single-player, multiplayer",Game Boy Advance
+116,Pok?mon Crystal,Role-playing,"Single-player, multiplayer",Game Boy Color
+117,Halo 3: ODST,First-person shooter,"Single-player, multiplayer","Xbox 360, Windows"
+118,Super Mario Sunshine,"Platformer, action-adventure",Single-player,GameCube
+119,Street Fighter II: The World Warrior,Fighting,upto two players simultaneously,"Arcade, Super NES, PC Engine, Master System, Amiga, Atari ST, Commodore 64, ZX Spectrum, DOS, Game Boy, PlayStation, Sega Saturn, PlayStation Portable, PlayStation 2, Xbox, Java ME, Wii Virtual Console, PlayStation 4, Xbox One, Nintendo Switch, Steam"
+120,World of Warcraft,Massively multiplayer online role-playing,Multiplayer,"Microsoft Windows, MacOS"
+121,Driver,"Driving, action",Single-player,"PlayStation, Microsoft Windows, Game Boy Color, Macintosh, IOS"
+122,Kinect Sports,Sports,"Single-player, multiplayer",Xbox 360
+123,Gears of War 3,Third-person shooter,"Single-player, multiplayer",Xbox 360
+124,Gears of War,Third-person shooter,"Single-player, multiplayer","Android, iOS, Microsoft Windows, Xbox 360, Xbox One"
+125,Metal Gear Solid 2: Sons of Liberty,"Action-adventure, stealth",Single-player,"PlayStation 2, Xbox, Microsoft Windows, PlayStation 3, Xbox 360, PlayStation Vita, Nvidia Shield"
+126,Sonic the Hedgehog 2,Platform,"Single-player, multiplayer","Sega Genesis, Nintendo 3DS, iOS, Windows Phone, Android, Microsoft Windows, Apple TV, Nintendo Switch"
+127,Metal Gear Solid 4: Guns of the Patriots,"Action-adventure, stealth",Single-player,PlayStation 3
+128,Metal Gear Solid,"Action-adventure, stealth",Single-player,"Commodore 64, Game Boy Color, GameCube, Microsoft Windows, Mobile, MS-DOS, MSX2, N-Gage, Nintendo 3DS, Nvidia Shield TV, OS X, PlayStation, PlayStation 2, PlayStation 3, PlayStation 4, PlayStation Portable, PlayStation Vita, Wii, Xbox, Xbox 360, Xbox One"
+129,Final Fantasy XII,Role-playing,Single-player,"PlayStation 2, PlayStation 4, Microsoft Windows, Nintendo Switch, Xbox One"
+130,LittleBigPlanet,Puzzle-platformer,,"PlayStation 3, PlayStation Portable, PlayStation Vita, PlayStation 4"
+131,Dragon Quest IX: Sentinels of the Starry Skies,Role-playing,"Single-player, multiplayer",Nintendo DS
+132,LEGO Star Wars: The Complete Saga,Action-adventure,"Single-player, multiplayer","Android, iOS, Microsoft Windows, Nintendo DS, OS X, PlayStation 3, Wii, Xbox 360"
+133,Tekken 2,Fighting game,upto two players simultaneously,"Arcade, PlayStation"
+134,Cooking Mama,"Puzzle, strategy",,"Nintendo Switch, Nintendo DS, Wii, Nintendo 3DS, iOS, PlayStation 4"
+135,Destiny,First-person shooter,Multiplayer,"PlayStation 3, PlayStation 4, Xbox 360, Xbox One"
+136,Forza Motorsport 3,Racing,"Single-player, multiplayer",Xbox 360
+137,Monster Hunter Freedom Unite,Action role-playing,"Single-player, multiplayer","PlayStation Portable, PlayStation Vita, iOS"
+138,Mario Kart: Super Circuit,Racing,"Single-player, multiplayer",Game Boy Advance
+139,Super Mario World,Platform,"Single-player, multiplayer","Arcade, Super NES, Game Boy Advance"
+140,Pokemon Stadium,Turn based Fighting,"Single-player, multiplayer",Nintendo 64
+141,Crash Bandicoot: The Wrath of Cortex,Platformer,Single-player,"PlayStation 2, Xbox, GameCube"
+142,Final Fantasy XIII,Role-playing,Single-player,"PlayStation 3, Xbox 360, Microsoft Windows, iOS, Android"
+143,Dr. Mario,Puzzle,"Single-player, multiplayer","NES, Nintendo VS. System, Arcade (PlayChoice-10), Game Boy, Game Boy, Advance, SNES (Satellaview), Wii (WiiWare)"
+144,Pok?mon Pinball,Pinball,Single-player,Game Boy Color
+145,Final Fantasy IX,Role-playing,"Single-player, multiplayer","PlayStation, iOS, Android, Microsoft Windows, PlayStation 4, Nintendo Switch, Xbox One"
+146,Final Fantasy X-2,Role-playing,Single-player,PlayStation 2
+147,Donkey Kong 64,"Platformer, adventure","Single-player, multiplayer",Nintendo 64
+148,Professor Layton and the Curious Village,"Puzzle, adventure",Single-player,"Nintendo DS, mobile, iOS, Android"
+149,Tomb Raider II,Action-adventure,Single-player,"Microsoft Windows, PlayStation, Mac OS, iOS, Android"
+150,Madden NFL 2004,Sports,"Single-player, multiplayer","Game Boy Advance, GameCube, Microsoft Windows, PlayStation, PlayStation 2, Xbox"
+151,Dragon Quest VIII: Journey of the Cursed King,Role-playing,Single-player,"PlayStation 2, Android, iOS, Nintendo 3DS"
+152,Diablo III,"Action role-playing, hack and slash, Dungeon crawl","Single-player, multiplayer","Microsoft Windows, OS X, PlayStation 3, Xbox 360, PlayStation 4, Xbox One, Nintendo Switch"
+153,Super Mario Bros. 3,Platforming,"Single-player, multiplayer","Nintendo Entertainment System, Arcade (PlayChoice-10), Game Boy Advance"
+154,Rock Band 2,Rhythm game,"Single-player, multiplayer","Xbox 360, PlayStation 3, PlayStation 2, Wii"
+155,Wario Land 3,"Platforming, Metroidvania",Single-player,Game Boy Color
+156,Sonic Unleashed,"Platformer, action-adventure, beat 'em up",Single-player,"PlayStation 2, Wii, Xbox 360, PlayStation 3, mobile"
+157,Pro Evolution Soccer 2012,Sports,"Single-player, multiplayer","Microsoft Windows, PlayStation 2, PlayStation 3, PlayStation Portable, Xbox 360, Wii, Nintendo 3DS, iOS, Android, Windows Phone 7, Xperia Play"
+158,Star Wars: Knights of the Old Republic,Role-playing,Single-player,"Xbox, Windows, Mac OS X, iOS, Android"
+159,Kirby's Pinball Land,Pinball,Single-player,Game Boy
+160,Donkey Kong Country,Platformer,"Single-player, multiplayer","Super NES, Game Boy Color, Game Boy Advance"
+161,Hitman: Absolution,Stealth,Single-player,"Microsoft Windows, PlayStation 3, Xbox 360, OS X"
+162,ATV Offroad Fury 2,Racing,"Single-player, multiplayer",PlayStation 2
+163,Forza Motorsport 5,Racing,"Single-player, multiplayer",Xbox One
+164,Madden NFL 25,Sports,"Single-player, multiplayer","PlayStation 3, PlayStation 4, Xbox 360, Xbox One, iOS, Android"
+165,Pokemon Ranger,Action role-playing,Single-player ,Nintendo DS
+166,Mario & Luigi: Superstar Saga,Role-playing,Single-player,Game Boy Advance
+167,Final Fantasy XIII,Role-playing,Single-player,"PlayStation 3, Xbox 360, Microsoft Windows, iOS, Android"
+168,Star Wars: Rogue Squadron,"Action, shooter",Single-player,"Microsoft Windows, Nintendo 64"
+169,AO Tennis,Sports,"Single-player, multiplayer","PlayStation 4, Xbox One, iOS, Android, Microsoft Windows"
+170,The Sims,Life simulation,Single-player,"Microsoft Windows, Mac OS, OS X, Linux, PlayStation 2, GameCube, Xbox"
+171,cyberpunk 2020,"Science fiction role-playing game, Cyberpunk",role-playing game,"Microsoft Windows, PlayStation 4, Stadia, Xbox"
+172,Cyberpunk 2077,Role-playing,"Single-player, multiplayer","Microsoft Windows, PlayStation 4, Stadia, Xbox One, Xbox Series X"
+173,Cyberpunk 203x,"Science fiction role-playing game, Cyberpunk",role-playing game,"Microsoft Windows, PlayStation 4, Stadia, Xbox"
+174,Cyberpunk ,"Science fiction role-playing game, Cyberpunk",role-playing game,"Microsoft Windows, PlayStation 4, Stadia, Xbox"
+175,Cyberpunk Red,"Science fiction role-playing game, Cyberpunk",role-playing game,"Microsoft Windows, PlayStation 4, Stadia, Xbox"
+176,Assassin's Creed,"Action-adventure, stealth",Single-player,"PlayStation 3, Xbox 360, Microsoft Windows"
+177,Assassin's Creed: Alta?r's Chronicles,"Action-adventure, stealth",Single-player,"Nintendo DS, Android, iOS, webOS, Symbian, Java ME, Windows Phone"
+178,Assassin's Creed: Bloodlines,"Action-adventure, stealth",Single-player,PlayStation Portable
+179,Assassin's Creed II,"Action-adventure, stealth",Single-player,"PlayStation 3, Xbox 360, Microsoft Windows, Mac OS X, PlayStation 4, Xbox One"
+180,Assassin's Creed II: Discovery,"Action-adventure, stealth",Single-player,"Nintendo DS, iOS"
+181,Assassin's Creed: Brotherhood,"Action-adventure, stealth","Single-player, multiplayer","PlayStation 3, Xbox 360, Microsoft Windows, Mac OS X, PlayStation 4, Xbox One"
+182,Assassin's Creed: Revelations,"Action-adventure, stealth","Single-player, multiplayer","PlayStation 3, Xbox 360, Microsoft Windows, PlayStation 4, Xbox One"
+183,Assassin's Creed III,"Action-adventure, stealth","Single-player, multiplayer","PlayStation 3, Xbox 360, Wii U, Microsoft Windows, PlayStation 4, Xbox One, Nintendo Switch"
+184,Assassin's Creed III: Liberation,"Action-adventure, stealth","Single-player, multiplayer","Nintendo Switch, PlayStation 4, Xbox One, PlayStation Vita, PlayStation 3, Xbox 360, Microsoft Windows"
+185,Assassin's Creed IV: Black Flag,"Action-adventure, stealth","Single-player, multiplayer","PlayStation 3, Xbox 360, Wii U, PlayStation 4, Microsoft Windows, Xbox One, Nintendo Switch"
+186,Assassin's Creed: Pirates,"Action-adventure, stealth",Single-player,"Windows, Android, iOS"
+187,Assassin's Creed: Freedom Cry,"Action-adventure, stealth",Single-player,"PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Windows"
+188,Assassin's Creed Rogue,"Action-adventure, stealth",Single-player,"PlayStation 3, Xbox 360, Microsoft Windows, PlayStation 4, Xbox One, Nintendo Switch"
+189,Assassin's Creed Identity,Action role-playing,Single-player,"iOS, Android"
+190,Assassin's Creed Unity,"Action-adventure, stealth","Single-player, multiplayer","Microsoft Windows, PlayStation 4, Xbox One"
+191,Assassin's Creed Chronicles,"Action-adventure, stealth",Single-player,"Microsoft Windows, PlayStation 4, Xbox One, PlayStation Vita"
+192,Assassin's Creed Syndicate,"Action-adventure, stealth",Single-player,"PlayStation 4, Xbox One, Microsoft Windows"
+193,Assassin's Creed Origins,"Action-adventure, stealth",Single-player,"Microsoft Windows, PlayStation 4, Xbox One"
+194,Assassin's Creed Odyssey,Action role-playing,Single-player,"Microsoft Windows, PlayStation 4, Xbox One, Nintendo Switch (Japan only), Stadia"
+195,Assassin's Creed Rebellion,Action role-playing,Single-player,"iOS, Android devices"
+196,Watch Dogs,Action-adventure,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Wii U"
+197,Watch Dogs 2,Action-adventure,"Single-player, multiplayer","PlayStation 4, Xbox One, Microsoft Windows"
+198,Watch Dogs: Legion,Action-adventure,"Single-player, multiplayer","Microsoft Windows, PlayStation 4, PlayStation 5, Stadia, Xbox One, Xbox Series X"
+199,Sleeping Dogs: Definitive Edition,Action-adventure,Single-player,"PlayStation 4, Windows, Xbox One"
+200,Sleeping Dogs: Law Enforcer Pack,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+201,Sleeping Dogs: The Monkey King Pack,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+202,Sleeping Dogs: Movie Masters Pack,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+203,Sleeping Dogs: Wheels of Fury,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+204,Sleeping Dogs: Year of the Snake,Action-adventure,Single-player,"PlayStation˜3,˜Windows,˜Xbox˜360"
+205,Sleeping Dogs: Gangland Style Pack,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+206,Sleeping Dogs: Drunken Fist Pack,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+207,Sleeping Dogs: Screen Legends Pack,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+208,Sleeping Dogs: The SWAT Pack,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+209,Sleeping Dogs: Tactical Soldier Pack,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+210,Sleeping Dogs: The Red Envelope Pack,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+211,Sleeping Dogs: The High Roller Pack,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+212,Sleeping Dogs: Retro Triad Pack,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+213,Sleeping Dogs: Police Protection Pack,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+214,Sleeping Dogs: Martial Arts Pack,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+215,Sleeping Dogs: GSP Pack,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+216,Sleeping Dogs: Deep Undercover Pack,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+217,Sleeping Dogs: Triad Enforcer Pack,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+218,Sleeping Dogs: Square Enix Character Pack,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+219,Sleeping Dogs,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+220,Sleeping Dogs (Limited Edition),Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+221,Sleeping Dogs (Benelux Edition),Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+222,Sleeping Dogs: Nightmare in North Point,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+223,Sleeping Dogs: Zodiac Tournament,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+224,Sleeping Dogs: Street Racer Pack,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+225,Sleeping Dogs: Ghost Pig,Action-adventure,Single-player,"PlayStation 3, Windows, Xbox 360"
+226,Batman,Action-adventure,Single-player,"ZX Spectrum, Amstrad CPC, MSX, Amstrad PCW"
+227,Batman: The Caped Crusader,Action-adventure,Single-player,"Amiga, Amstrad CPC, Atari ST, Commodore 64, Apple II, MS-DOS, ZX Spectrum"
+228,Batman: The Movie,Action-adventure,Single-player,"Amiga, Amstrad CPC, Atari ST, Commodore 64, MS-DOS, MSX, ZX Spectrum"
+229,Batman: The Video Game,Platform game,Single-player,"NES, Game Boy"
+230,Batman (Sega Genesis video game),"Action, Platformer",Single-player,Sega Genesis 
+231,Batman (1990 arcade game),Beat 'em up,Single-player,Arcade
+232,Batman: Return of the Joker,Action,Single-player,"NES, Game Boy, Sega Genesis"
+233,Batman Returns,"Action, platform, Vehicular combat, Beat 'em up ",Single-player,"Game Gear, Master System, Genesis, Sega CD, NES, SNES, handheld Tiger games"
+234,Batman: The Animated Series (video game),Action,Single-player,Game Boy
+235,The Adventures of Batman & Robin,"Action, Platformer, Vehicular combat, Run and gun","Single-player, multiplayer","SNES, Sega CD, Sega Genesis, Game Gear"
+236,Batman Forever,Beat 'em up,Single-player,"Super NES, Genesis, Game Gear, Game Boy, R-Zone, DOS"
+237,Batman Forever: The Arcade Game,Beat 'em up,"Single-player, multiplayer","Arcade, MS-DOS, PlayStation, Sega Saturn"
+238,Batman & Robin,Action-adventure,Single-player,"PlayStation, Game.com"
+239,Batman Beyond: Return of the Joker,Scrolling beat 'em up,Single-player,"Game Boy Color, PlayStation, Nintendo 64 "
+240,Batman: Chaos in Gotham,Action,Single-player,Game Boy Color
+241,Batman: Gotham City Racer,Racing,"Single-player, multiplayer",PlayStation
+242,Batman: Vengeance,Action,Single-player,"PlayStation 2, Game Boy Advance, GameCube, Xbox, Microsoft Windows"
+243,Batman: Dark Tomorrow,Action-adventure,Single-player,"GameCube, Xbox"
+244,Batman: Rise of Sin Tzu,"Action, beat 'em up","Single-player, cooperative gameplay ","Xbox, PlayStation 2, Game Boy Advance, GameCube "
+245,Batman Begins,"Stealth, action-adventure",Single-player,"Game Boy Advance, GameCube, PlayStation 2, Xbox"
+246,Lego Batman: The Videogame,Action-adventure,"Single-player, multiplayer","Microsoft Windows, Nintendo DS, OS X, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Xbox 360"
+247,Batman: Arkham Asylum,Action-adventure,Single-player,"PlayStation 3, Xbox 360, Microsoft Windows, Mac OS X, PlayStation 4, Xbox One"
+248,Batman: The Brave and the Bold ? The Videogame,"Beat 'em up, Platform","Single-player video game, multiplayer","Wii, Nintendo DS"
+249,Batman: Arkham City,Action-adventure,Single-player,"PlayStation 3, Xbox 360, Microsoft Windows, Wii U, OS X, PlayStation 4, Xbox One"
+250,Lego Batman 2: DC Super Heroes,Action-adventure,"Single-player, multiplayer","Android, iOS, Microsoft Windows, Nintendo 3DS, Nintendo DS, OS X, PlayStation 3, PlayStation Vita, Wii, Wii U, Xbox 360"
+251,Batman: Arkham Origins,Action-adventure,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, Wii U, Xbox 360"
+252,Batman: Arkham Origins Blackgate,"Action-adventure, beat 'em up, stealth, Metroidvania",Single-player,"Nintendo 3DS, PlayStation Vita, PlayStation 3, Wii U, Microsoft Windows, Xbox 360"
+253,Batman (2013 arcade game),Vehicular combat,Single-player,Arcade
+254,Lego Batman 3: Beyond Gotham,Action-adventure,"Single-player, multiplayer","Android, iOS, Microsoft Windows, Nintendo 3DS, OS X, PlayStation 3, PlayStation 4, PlayStation Vita, Wii U, Xbox 360, Xbox One"
+255,Batman: Arkham Knight,Action-adventure,Single-player,"Microsoft Windows, PlayStation 4, Xbox One"
+256,Batman: Arkham VR,"Adventure, virtual reality",Single-player,"PlayStation 4, Microsoft Windows"
+257,Batman: Return to Arkham,Action-adventure,Single-player,"PlayStation 4, Xbox One"
+258,Batman: The Telltale Series,Graphic adventure,Single-player,"Microsoft Windows, PlayStation 4, Xbox One, PlayStation 3, Xbox 360, iOS, Android, Nintendo Switch"
+259,Batman: The Enemy Within,Graphic adventure,Single-player,"Microsoft Windows, macOS, PlayStation 4, Xbox One, iOS, Android, Nintendo Switch"
+260,The Revenge of Shinobi,"Platform, hack and slash",Single-player,"Sega Genesis, Mega-Tech"
+261,Justice League Task Force,Fighting,"Single-player, multiplayer","Genesis, Super NES"
+262,Justice League: Injustice for All,Action,Single-player,Game Boy Advance
+263,Justice League: Chronicles,Action,Single-player,Game Boy Advance
+264,Justice League Heroes,Action role-playing,"Single-player, multiplayer","PlayStation 2 Xbox PlayStation Portable, Nintendo DS"
+265,Justice League Heroes: The Flash,"Action, platform",Single-player,Game Boy Advance
+266,Mortal Kombat vs. DC Universe,Fighting,"Single-player, multiplayer","PlayStation 3, Xbox 360"
+267,DC Universe Online,"Massively multiplayer online, action",Multiplayer,"Microsoft Windows, Nintendo Switch, PlayStation 3 (discontinued), PlayStation 4, Xbox One"
+268,Gotham City Impostors,First-person shooter,Multiplayer,"Microsoft Windows, PlayStation 3, Xbox 360 "
+269,Injustice: Gods Among Us,Fighting,"Single-player, multiplayer","PlayStation 3, Wii U, Xbox 360, Microsoft Windows, PlayStation 4, PlayStation Vita, iOS, Android"
+270,Scribblenauts Unmasked: A DC Comics Adventure,"Puzzle, action","Single-player, multiplayer","Wii U, Nintendo 3DS, Microsoft Windows, Nintendo Switch, PlayStation 4, Xbox One "
+271,The Lego Movie Videogame,Action-adventure,"Single-player, multiplayer","iOS, Microsoft Windows, Nintendo 3DS, OS X, PlayStation 3, PlayStation 4, PlayStation Vita, Wii U, Xbox 360, Xbox One"
+272,Infinite Crisis,Multiplayer online battle arena,Multiplayer,Microsoft Windows
+273,Lego Dimensions,Action-adventure,"Single-player, multiplayer","PlayStation 3, PlayStation 4, Wii U, Xbox 360, Xbox One"
+274,Injustice 2,Fighting,"Single-player, multiplayer","Android, iOS, PlayStation 4, Xbox One, Microsoft Windows"
+275,Arena of Valor,Multiplayer online battle arena,Multiplayer,"Android, iOS, Nintendo Switch "
+276,Batman Begins (Mobile Phone Game),"Stealth-game, Platformer",Single-player,Mobile Phone
+277,LEGO Batman: The Mobile Game ,Action-adventure,"Single-player, multiplayer","Mobile phone, Smartphone "
+278,The Dark Knight,Action-adventure,Single-player,Mobile Phone
+279,The Dark Knight: Batmobile Game ,Action-adventure,Single-player,iPhone
+280,Batman: Heroes United,Platformer,Single-player,Mobile Phone
+281,Superman: Heroes United,Platformer,Single-player,Mobile Phone
+282,Batman: Guardian of Gotham,Rail-shooter,Single-player,Mobile Phone
+283,Batman: Arkham City Lockdown,Action-adventure,Single-player,"iOS, Android"
+284,The Dark Knight Rises,Action-adventure,Single-player,"iOS, Android, Windows Phone"
+285,Batman: Arkham Origins (mobile),Beat 'em up,Single-player,"iOS, Android"
+286,Batman: The Telltale Series,Graphic adventure,Single-player,"iOS, Android"
+287,The LEGO Batman Movie Game,Action-adventure,"Single-player, multiplayer","iOS, Android"
+288,Batman: The Enemy Within,Graphic adventure,Single-player,"iOS, Android"
+289,NBA,Sports video game,"Single-player, multiplayer","PlayStation Portable, PlayStation 2, PlayStation 3"
+290,NBA 06,Sports,"Single-player, multiplayer","PlayStation Portable, PlayStation 2"
+291,NBA 07,Sports,"Single-player, multiplayer","PlayStation 2, PlayStation 3, PlayStation Portable"
+292,NBA 08,"Sports, Simulation, Arcade","Single-player, multiplayer","PlayStation 2, PlayStation 3, PlayStation Portable"
+293,NBA 09: The Inside,"Sports, Simulation, Arcade","Single-player, multiplayer","PlayStation 2, PlayStation 3, PlayStation Portable"
+294,NBA 10: The Inside,"Sports, Simulation, Arcade","Single-player, multiplayer",PlayStation Portable
+295,FIFA International Soccer,Sports video game,"Single-player, multiplayer","3DO, Commodore Amiga, MS-DOS, Game Boy, Sega Game Gear, Sega Genesis, Sega CD, Sega Master System, Super Nintendo Entertainment System"
+296,FIFA Soccer 95,Sports video game,"Single-player, multiplayer",Sega Genesis
+297,FIFA Soccer 96,Sports,"Single-player, multiplayer","Windows, DOS, Sega 32X, Sega Genesis, SNES, Game Boy, Sega Game Gear, PlayStation, Sega Saturn"
+298,FIFA 97,Sports,"Single-player, Multiplayer, Multiplayer online","Microsoft Windows, DOS, Game Boy, Mega Drive, SNES, PlayStation, Saturn"
+299,FIFA 98,Sports,"Single-player, Multiplayer, Multiplayer online","Microsoft Windows, PlayStation, Nintendo 64, Sega Saturn, Game Boy, Mega Drive/Sega Genesis, SNES"
+300,World Cup 98,Football/Soccer,"Single-player, multiplayer","Game Boy, Nintendo 64, PlayStation, Windows"
+301,FIFA 99,Sports,"Single-player, Multiplayer, Multiplayer online","Nintendo 64, PlayStation, Microsoft Windows"
+302,FIFA 2000,Sports game,"Single-player, multiplayer","Microsoft Windows, PlayStation, Game Boy Color"
+303,FIFA 2001,Sports,"Single player, Multiplayer (Offline, Online)","Microsoft Windows, PlayStation, PlayStation 2"
+304,FIFA Football 2002,Sports game,"Single-player, Multiplayer, Online multiplayer","Windows, PlayStation, PlayStation 2, GameCube"
+305,2002 FIFA World Cup,Sports,"Single-player, multiplayer","PlayStation 2, Xbox, Microsoft Windows, PlayStation, GameCube"
+306,FIFA Football 2003,Sports game,"Single-player, Multiplayer, Online multiplayer","PlayStation, Microsoft Windows, Game Boy Advance, GameCube, PlayStation 2, Xbox, Mobile phone"
+307,FIFA Football 2004,Sports (football),"Single-player, Multiplayer, Online multiplayer","Microsoft Windows, Consoles (PlayStation, PlayStation 2, GameCube, Xbox), Handheld (Game Boy Advance, N-Gage, Mobile phone)"
+308,FIFA Football 2005,Sports game,"Single-player, Multiplayer, Online multiplayer","Microsoft Windows, Consoles (PlayStation, PlayStation 2, GameCube, Xbox), Handhelds (Game Boy Advance, PlayStation Portable, N-Gage, Gizmondo, Mobile phone)"
+309,FIFA Street,Sports (football),"Single-player, multiplayer","PlayStation 2, Xbox, GameCube"
+310,FIFA 06,Sports game,"Single-player, Multiplayer, Online multiplayer","Microsoft Windows, Consoles (GameCube, PlayStation 2, Xbox), Handheld (PlayStation Portable, Nintendo DS, Game Boy Advance), Mobile (Java ME, Mobile phone)"
+311,FIFA Street 2,Sports (street football),"Single-player, multiplayer","Nintendo DS, Nintendo GameCube, PlayStation 2, PlayStation Portable, Xbox, Mobile phone"
+312,2006 FIFA World Cup,Sports,"Single-player, multiplayer","Microsoft Windows, PlayStation 2, PlayStation Portable, Xbox, Xbox 360, Nintendo DS, Game, Boy Advance, GameCube, Java Platform, Micro Edition, Mobile phone"
+313,FIFA 07,Sports game (football),"Single-player, Multiplayer, Online multiplayer","Microsoft Windows, Consoles (PlayStation 2, Xbox, Xbox 360, GameCube), Handheld (PlayStation Portable, Nintendo DS, Game Boy Advance, Java ME)"
+314,FIFA 08,Sports,"Single-player, multiplayer","Microsoft Windows, Consoles (Xbox 360, Wii, PlayStation 2, PlayStation 3), Handhelds (PlayStation Portable, Nintendo DS, N-Gage 2, Zeebo, Java ME)"
+315,FIFS Street 3,Sports,"Single-player, multiplayer","Xbox 360, PlayStation 3, Nintendo DS"
+316,FIFA 09,Sports,"Single-player, multiplayer","Microsoft Windows, Consoles (PlayStation 2, PlayStation 3, Wii, Xbox 360), Handhelds (PlayStation Portable, N-Gage 2.0, Nintendo DS, Zeebo, Java ME)"
+317,FIFA 10,Sports,"Single-player, multiplayer","Microsoft Windows, Consoles (Wii, PlayStation 2, PlayStation 3, Xbox 360), Handhelds and Mobile (PlayStation Portable, Nintendo DS, iOS, Android, Java ME)"
+318,2010 FIFA World Cup South Africa,Sports,"Single-player, multiplayer","PlayStation Portable, PlayStation 3, Xbox 360, Wii, iOS"
+319,FIFA 11,Sports,"Single-player, multiplayer","PC (OS X, Microsoft Windows), Consoles (PlayStation 2, PlayStation 3, Wii, Xbox 360), Handhelds and Mobile (iOS, Android, Nintendo DS, PlayStation Portable, Blackberry App World, Java ME)"
+320,FIFA 12,Sports,"Single-player, multiplayer","PC (Microsoft Windows, OS X), Consoles (PlayStation 2, PlayStation 3, Xbox 360, Wii), Handheld (PlayStation Portable, Nintendo 3DS, PlayStation Vita), Mobile (iOS, Android, Java ME, Xperia Play)"
+321,FIFA 13,Sports,"Single-player, multiplayer","Microsoft Windows, Consoles (PlayStation 2, PlayStation 3, Xbox 360, Wii, Wii U), Handheld (PlayStation Portable, PlayStation Vita, Nintendo 3DS), Mobile (iOS, Windows Phone 8, Java ME)"
+322,FIFA 14,Sports game,"Single-player, multiplayer","Android, iOS, Microsoft Windows, PlayStation 2, PlayStation 3, PlayStation 4, PlayStation Portable, PlayStation Vita, Wii, Xbox 360, Xbox One "
+323,2014 FIFA World Cup Brazil,Sports,"Single-player, multiplayer","PlayStation 3, Xbox 360"
+324,FIFA 15,Sports,"Single-player, multiplayer","Microsoft Windows, Consoles (PlayStation 3, PlayStation 4, Wii, Xbox 360, Xbox One), Handheld (PlayStation Vita, Nintendo 3DS), Mobile (iOS, Android, Windows Phone)"
+325,FIFA 16,Sports,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Android, iOS"
+326,FIFA 17,Sports,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One"
+327,FIFA Mobile,Sports,"Single-player, multiplayer","iOS, Android, Microsoft Windows (discontinued; 2016-17)"
+328,FIFA 18,Sports,"Single-player, multiplayer","Microsoft Windows, Nintendo Switch, PlayStation 3, PlayStation 4, Xbox 360, Xbox One"
+329,FIFA 19,Sports,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Nintendo Switch"
+330,FIFA 20,Sports,"Single-player, multiplayer","Microsoft Windows, PlayStation 4, Xbox One, Nintendo Switch"
+331,Major League Baseball 2K5,Sports,Single-player,"PlayStation 2, Xbox"
+332,Ford Racing 3,Racing,"Single-player, multiplayer","Personal computer, PlayStation 2, Game Boy Advance, Nintendo DS, Xbox"
+333,Close Combat: First to Fight,first-person shooter,Multiplayer,"Windows, Xbox, Macintosh, Wii"
+334,Ford Mustang: The Legend Lives,Racing,"Single-player, multiplayer","PlayStation 2, Xbox"
+335,Stronghold 2,Real-time strategy,"Single-player, multiplayer",Microsoft Windows
+336,Motocross Mania 3,Racing,Single-player,"PlayStation 2, Xbox"
+337,Sid Meier's Pirates!,"Action-adventure, strategy",Single-player,"Microsoft Windows, Xbox, Xbox 360, PlayStation Portable, Mac OS X, Linux, SteamOS, Wii, iOS, Windows Phone"
+338,NHL 2K6,Sports,"Single-player, multiplayer","PlayStation 2, Xbox, Xbox 360"
+339,NBA 2K6,Sports,"Single-player, multiplayer","PlayStation 2, Xbox, Xbox 360"
+340,Top Spin,Sports,"Single-player, multiplayer","Xbox, PC, PS2"
+341,Conflict: Global Terror,Tactical shooter,"Single-player, multiplayer","Microsoft Windows, PlayStation 2, Xbox"
+342,Serious Sam 2,First-person shooter,"Single-player, multiplayer","Microsoft Windows, Xbox"
+343,Shattered Union,Turn-based tactics,"Single-player, multiplayer","Microsoft Windows, Xbox"
+344,Call of Cthulhu: Dark Corners of the Earth,Survival horror,Single-player,"Microsoft Windows, Xbox"
+345,Vietcong 2,"First-person shooter, tactical shooter","Single-player, multiplayer",Microsoft Windows
+346,Civilization IV,"Turn-based strategy, 4X","Single-player, multiplayer","Microsoft Windows, Mac OS X"
+347,Amped 3,Sports,"Single-player, multiplayer",Xbox 360
+348,College Hoops 2K6,Sports,"Single player, Multiplayer, Online multiplayer","Xbox 360, Xbox, PlayStation 2"
+349,Torino 2006,Sports,"Single-player, multiplayer","Microsoft Windows, PlayStation 2, Xbox"
+350,24: The Game,Third-person shooter,Single-player,PlayStation 2
+351,The Elder Scrolls IV: Oblivion,Action role-playing,Single-player,"Microsoft Windows, PlayStation 3, Xbox 360"
+352,Top Spin 2,Sports,"Single-player, multiplayer","Xbox 360, Game Boy Advance, Nintendo DS, Microsoft Windows, Mobile phones"
+353,Major League Baseball 2K6,Sports,"Single-player, multiplayer","GameCube, PlayStation Portable, PlayStation 2, Xbox, Xbox 360"
+354,The Da Vinci Code,"Adventure, puzzle",Single-player,"PlayStation 2, Xbox, Windows"
+355,Prey,First-person shooter,"Single-player, multiplayer","Microsoft Windows, Xbox 360, Mac OS X, Symbian, Linux, Zeebo"
+356,CivCity: Rome,City-building,Single-player,Microsoft Windows
+357,NHL 2K7,Sports (ice hockey video game),Single-player,"PlayStation 2, PlayStation 3, Xbox, Xbox 360"
+358,Family Guy Video Game!,Action-adventure,Single-player,"PS2, Xbox, PSP"
+359,Sid Meier's Railroads!,Business simulation game,"Single-player, multiplayer","Microsoft Windows, Mac OS X"
+360,Stronghold Legends,Real-time strategy,"Single-player, multiplayer",Microsoft Windows
+361,Dungeon Siege: Throne of Agony,Role-playing,"Single-player, multiplayer",PlayStation Portable
+362,NBA 2K7,Sports,"Single-player, multiplayer","PlayStation 2, PlayStation 3, Xbox, Xbox 360"
+363,College Hoops 2K7,Sports,"Single player, Multiplayer, Online multiplayer","PlayStation 2, PlayStation 3, Xbox, Xbox 360"
+364,Ghost Rider,Hack and Slash,Single player,"PlayStation 2, PlayStation Portable, Game Boy Advance"
+365,Jade Empire,Action role-playing,Single player,"Xbox, Microsoft Windows, macOS, iOS, Android"
+366,Major League Baseball 2K7,Sports,"Single-player, multiplayer","PlayStation Portable, PlayStation 2, PlayStation 3, Xbox, Xbox 360, Nintendo DS, Game Boy Advance"
+367,Fantastic Four: Rise of the Silver Surfer,Third-person action-adventure game,"Single-player, multiplayer","PlayStation 2, PlayStation 3, Wii, Xbox 360, Nintendo DS"
+368,The Bigs,"Sports, baseball","Single-player, multiplayer","Xbox 360, PlayStation 3, PlayStation 2, Wii, PlayStation Portable"
+369,The Darkness,First-person shooter,"Single-player, multiplayer","Xbox 360, PlayStation 3"
+370,All-Pro Football 2K8,Sports,"Single-player, multiplayer","PlayStation 3, Xbox 360"
+371,BioShock,First-person shooter,Single player,"Microsoft Windows, Xbox 360, PlayStation 3, Mac OS X, iOS, Nintendo Switch"
+372,NHL 2K8,Sports,Single-player,"PlayStation 2, PlayStation 3, Xbox 360"
+373,NBA 2K8,Sports,"Single-player, multiplayer","PlayStation 2, PlayStation 3, Xbox 360"
+374,MLB Power Pros,"Sports, Anime",Single-player,"PlayStation 2, Wii"
+375,Major League Baseball 2K8,Sports,"Single-player, multiplayer","PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Xbox 360"
+376,Major League Baseball 2K8 Fantasy All-Stars,Sports game,"Single-player, multiplayer",Nintendo DS
+377,Don King Presents: Prizefighter,"Sports, Fighting","Single-player, two-player",Xbox 360
+378,Top Spin 3,Sports,"Single-player, multiplayer","PlayStation 3, Wii, Xbox 360, Nintendo DS"
+379,Carnival Games,Party,"Single-player, multiplayer","Wii, Nintendo DS"
+380,Civilization Revolution,Turn-based strategy,"Single-player, multiplayer","PlayStation 3, Xbox 360, Nintendo DS, iOS, Windows Phone"
+381,MLB Power Pros 2008,Sports,Single-player,"PlayStation 2, Wii, Nintendo DS"
+382,NHL 2K9,Sports (ice hockey simulator),"Single-player, multiplayer","PlayStation 2, PlayStation 3, Wii, Xbox 360"
+383,NBA 2K9,Sports,"Single-player, multiplayer","PlayStation 2, PlayStation 3, Xbox 360, Microsoft Windows"
+384,MLB Stickball,Sports,"Single-player, multiplayer",Xbox 360 (XBLA)
+385,MLB Superstars,Sports,"Single-player, multiplayer",Wii
+386,MLB Front Office Manager,Sports management,"Single-player, Multiplayer","Microsoft Windows, Xbox 360, PlayStation 3"
+387,Major League Baseball 2K9,Sports,"Single-player, multiplayer","Microsoft Windows, Xbox 360, PlayStation 3, PlayStation 2, PlayStation Portable, Wii"
+388,Major League Baseball 2K9 Fantasy All-Stars,Sports,"Single-player, multiplayer",Nintendo DS
+389,The Bigs 2,"Sports, baseball","Single-player, multiplayer","Xbox 360, PlayStation 3, PlayStation 2, Wii, PlayStation Portable, Nintendo DS"
+390,Birthday Party Bash,Party,"Single-player, multiplayer",Wii
+391,NHL 2K10,Sports (ice hockey),"Single-player, multiplayer","PlayStation 2, PlayStation 3, Wii, Xbox 360"
+392,NBA 2K10,Sports,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, PlayStation 2, PlayStation Portable, Xbox 360, Wii"
+393,Axel & Pixel,"Graphic adventure, art game",Single-player,"Xbox 360, Microsoft Windows"
+394,Borderlands,"Action role-playing, first-person shooter","Single-player, multiplayer","PlayStation 3, Xbox 360, Windows, Mac OS X, PlayStation 4, Xbox One"
+395,BioShock 2,First-person shooter,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, Xbox 360, Mac OS X, Nintendo Switch"
+396,The Misadventures of P.B. Winterbottom,Puzzle,Single-player,"Xbox 360 (XBLA), Windows"
+397,Major League Baseball 2K10,Sports,"Single-player, Multiplayer","Microsoft Windows, Xbox 360, PlayStation 3, PlayStation 2, Wii, Nintendo DS, PlayStation Portable, Cloud (OnLive)"
+398,Mafia II,Action-adventure,Single-player,"Mobile Phone, Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Mac OS X"
+399,NHL 2K11,Sports (ice hockey),"Single player, Multiplayer, Online multiplayer","Wii, iOS"
+400,New Carnival Games,Party Game,"Single-player, multiplayer","Wii, Nintendo DS"
+401,Civilization V,"Turn-based strategy, 4X","Single-player, multiplayer","Microsoft Windows, OS X, Linux"
+402,NBA 2K11,Sports,"Single-player, multiplayer","Xbox 360, Wii, PlayStation 3, PlayStation 2, PlayStation Portable, Microsoft Windows"
+403,Major League Baseball 2K11,Sports,"Single-player, Multiplayer","Xbox 360, PlayStation 3, PlayStation 2, PlayStation Portable, Wii, Nintendo DS, Microsoft Windows, Cloud (OnLive)"
+404,Top Spin 4,Sports,"Single-player, multiplayer","PlayStation 3, Wii, Xbox 360"
+405,Duke Nukem Forever,First-person shooter,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, Xbox 360, OS X, OnLive"
+406,Civilization World,Strategy,Cooperative,Facebook Platform
+407,Nicktoons MLB,Baseball game,"Single-player, Multiplayer","Nintendo 3DS, Nintendo DS, Wii, Xbox 360"
+408,NBA 2K12,Sports,"Single-player, Multiplayer","Xbox 360, PlayStation 3, PlayStation 2, PlayStation Portable, Wii, Microsoft Windows, iOS"
+409,The Darkness II,First-person shooter,"Single-player, Multiplayer","Microsoft Windows, PlayStation 3, Xbox 360, Mac OS X"
+410,Major League Baseball 2K12,Sports,"Single-player, multiplayer","PlayStation 2, PlayStation 3, PlayStation Portable, Microsoft Windows, Nintendo DS, Wii, Xbox 360, Cloud (OnLive)"
+411,Spec Ops: The Line,Third-person shooter,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, Xbox 360, OS X, Linux"
+412,Borderlands 2,"Action role-playing, first-person shooter","Single-player, multiplayer","Windows, PlayStation 3, Xbox 360, OS X, PlayStation Vita, Linux, Android, The Handsome Collection (PlayStation 4, Xbox One, Nintendo Switch)"
+413,NBA 2K13,Sports,"Single-player, multiplayer","Xbox 360, Wii, Wii U, PlayStation 3, PlayStation Portable, iOS, Android, Microsoft Windows"
+414,XCOM: Enemy Unknown,"Turn-based tactics, tactical role-playing","Single-player, multiplayer","Windows, Linux, OS X, iOS, Android, PlayStation 3, PlayStation Vita, Xbox 360"
+415,NBA 2K13,Sports,"Single-player, multiplayer","Xbox 360, Wii, Wii U, PlayStation 3, PlayStation Portable, iOS, Android, Microsoft Windows"
+416,Major League Basketball 2K13,Sports,"Single-player, multiplayer","PlayStation 3, Xbox 360"
+417,Bioshock Infinite,First-person shooter,Single-player,"Microsoft Windows, PlayStation 3, Xbox 360, OS X, Linux, Nintendo Switch"
+418,The Bureau: XCOM Declassified,Tactical shooter,Single-player,"Microsoft Windows, PlayStation 3, Xbox 360, OS X"
+419,NBA 2K14,Sports,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One, iOS, Android"
+420,WWE 2K14,Sports,"Single-player, multiplayer","PlayStation 3, Xbox 360"
+421,Civilization Revolution 2,Turn-based strategy,"Single-player, multiplayer","iOS, Android, PlayStation Vita"
+422,NBA 2K15,Sports,"Single-player, multiplayer","Xbox 360, Xbox One, PlayStation 3, PlayStation 4, Microsoft Windows, iOS, Android"
+423,Borderlands: The Pre-Sequel!,"Action role-playing, first-person shooter","Single-player, multiplayer","Microsoft Windows, OS X, Linux, PlayStation 3, Xbox 360, Shield Portable, Shield Tablet, Shield Android TV, The Handsome Collection (PlayStation 4, Xbox One, Nintendo Switch)"
+424,NHL 2K,Sports (ice hockey),"Single-player, Online multiplayer","iOS, Android"
+425,Civilization: Beyond Earth,Turn-based strategy 4X,"Single-player, Multiplayer","Microsoft Windows, OS X, Linux"
+426,WWE 2K15,Sports,"Single-player, Multiplayer","PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Microsoft Windows, Android, iOS"
+427,Evolve,First-person shooter,"Single-player, Multiplayer","Microsoft Windows, PlayStation 4, Xbox One"
+428,Sid Meier's Starships,Turn-based strategy,"Single-player, Multiplayer","Microsoft Windows, macOS, iOS"
+429,Borderlands: The Handsome Collection,"Action role-playing, first-person shooter","Single-player, multiplayer","PlayStation 4, Xbox One, Microsoft Windows, macOS, Nintendo Switch"
+430,WWE 2K,Fighting,"Single-player, multiplayer","Android, iOS"
+431,NBA 2K16,Sports,"Single-player, multiplayer","Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Android, iOS"
+432,WWE 2K16,Sports,"Single-player, multiplayer","PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Microsoft Windows"
+433,XCOM 2,"Turn-based tactics, tactical role-playing","Single-player, multiplayer","Microsoft Windows, OS X, Linux, PlayStation 4, Xbox One, Nintendo Switch"
+434,Tales from the Borderlands,Graphic adventure,Single-player,"Microsoft Windows, PlayStation 3, PlayStation 4, Xbox One, OS X, Xbox 360, iOS, Android"
+435,Battleborn,First-person shooter,"Single-player, multiplayer","Microsoft Windows, PlayStation 4, Xbox One"
+436,Bioshock: The Collection,First-person shooter,"Single-player, multiplayer","Microsoft Windows, PlayStation 4, Xbox One, macOS, Nintendo Switch"
+437,NBA 2K17,Sports,"Single-player, multiplayer","Microsoft Windows, PlayStation 4, PlayStation 3, Xbox One, Xbox 360, iOS, Android"
+438,Mafia III,Action-adventure,Single-player,"Microsoft Windows, PlayStation 4, Xbox One, macOS"
+439,WWE 2K17,Sports,"Single-player, multiplayer","PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Microsoft Windows"
+440,Civilization VI,"Turn-based strategy, 4X","Single-player, multiplayer","Microsoft Windows, macOS, Linux, iOS, Nintendo Switch, PlayStation 4, Xbox One"
+441,NBA 2K18,Sports,"Single-player, multiplayer","Microsoft Windows, iOS, Android, Nintendo Switch, PlayStation 4, PlayStation 3, Xbox One, Xbox 360"
+442,WWE 2K18,Sports,"Single-player, multiplayer","Microsoft Windows, PlayStation 4, Xbox One, Nintendo Switch"
+443,NBA 2K19,Sports,"Single-player, multiplayer","Microsoft Windows, Nintendo Switch, PlayStation 4, Xbox One, Android, iOS"
+444,WWE 2K19,Sports,"Single-player, multiplayer","Microsoft Windows, PlayStation 4, Xbox One"
+445,NBA 2K20,Sports,"Single-player, multiplayer","Microsoft Windows, Nintendo Switch, PlayStation 4, Xbox One, Stadia"
+446,Borderlands 3,"Action role-playing, first-person shooter","Single-player, multiplayer","macOS, Stadia, Windows, PlayStation 4, Xbox One"
+447,WWE 2K20,Sports,"Single-player, multiplayer","Microsoft Windows, PlayStation 4, Xbox One"
+448,Minecraft Dungeons,Dungeon crawler,"Single-player, multiplayer","Nintendo Switch, PlayStation 4, Windows, Xbox One"
+449,Minecraft Earth,"Augmented reality, sandbox","Single-player, multiplayer","Android, iOS, iPadOS"
+450,Minecraft: Story Mode,"Graphic adventure, interactive movie",Single-player,"Android, iOS, Apple TV, Microsoft Windows, Nintendo Switch, macOS, PlayStation 3, PlayStation 4, Wii U, Xbox 360, Xbox One, Browser"
+451,Minecraft,"Sandbox, survival","Single-player, multiplayer","Windows, OS X, Linux"
+452,Forza Motorsport,Racing simulation,"Single-player, multiplayer",Xbox
+453,Forza Motorsport 2,Racing,"Single-player, multiplayer",Xbox 360
+454,Forza Motorsport 3,Racing,"Single-player, multiplayer",Xbox 360
+455,Forza Motorsport 4,Racing,"Single-player, multiplayer",Xbox 360
+456,Forza Motorsport 5,Racing,"Single-player, multiplayer",Xbox One
+457,Forza Motorsport 6,Racing,"Single-player, multiplayer","Xbox One, Windows 10 Anniversary Update and later"
+458,Forza Motorsport 7,Racing,"Single-player, multiplayer","Windows, Xbox One"
+459,Forza Horizon,Racing,"Single-player, multiplayer",Xbox 360
+460,Forza Horizon 2,Racing,"Single-player, multiplayer","Xbox One, Xbox 360"
+461,Forza Horizon 3,Racing,"Single-player, multiplayer","Microsoft Windows, Xbox One"
+462,Forza Horizon 4,Racing,"Single-player, multiplayer","Microsoft Windows, Xbox One"
+463,The Evil Within,Survival horror,Single-player,"Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One"
+464,The Evil Within 2,Survival horror,Single-player,"Microsoft Windows, PlayStation 4, Xbox One"
+465,Hitman: Codename 47,Stealth,Single-player,Microsoft Windows
+466,Hitman 2: Silent Assassin,Stealth,Single-player,"Microsoft Windows, PlayStation 2, Xbox, GameCube"
+467,Hitman: Contracts,Stealth,Single-player,"Microsoft Windows, PlayStation 2, Xbox"
+468,Hitman: Blood Money,Stealth,Single-player,"Microsoft Windows, PlayStation 2, Xbox, Xbox 360"
+469,Hitman,Stealth,Single-player,"Windows, PlayStation 4, Xbox One, Linux, macOS"
+470,Hitman 2,Stealth,"Single-player, multiplayer","Windows, PlayStation 4, Xbox One"
+471,Hitman Go,Puzzle,Single-player,"Android, iOS, Windows, Windows Phone, Linux, PlayStation 4, PlayStation Vita"
+472,Hitman: Sniper,Shooting gallery,Single-player,"Android, iOS"
+473,God of War,"Action-adventure, hack and slash",Single-player,"PlayStation 2, PlayStation 3, PlayStation Vita"
+474,God of War II,"Action-adventure, hack and slash",Single-player,"PlayStation 2, PlayStation 3, PlayStation Vita"
+475,God of War: Betrayal,"Action-adventure, hack and slash",Single-player,"Java Platform, Micro Edition (Java ME)"
+476,God of War: Chains of Olympus,"Action-adventure, hack and slash",Single-player,"PlayStation Portable, PlayStation 3"
+477,God of War Collection,"Action-adventure, hack and slash",Single-player,"PlayStation 3, PlayStation Vita"
+478,God of War III,"Action-adventure, hack and slash",Single-player,"PlayStation 3, PlayStation 4"
+479,God of War: Ghost of Sparta,"Hack and slash, action-adventure",Single-player,"PlayStation Portable, PlayStation 3"
+480,God of War: Origins Collection,"Hack and slash, action-adventure",Single-player,PlayStation 3
+481,God of War Saga,"Action-adventure, hack and slash",Single-player,PlayStation 3
+482,God of War: Ascension,"Action-adventure, hack and slash","Single-player, multiplayer",PlayStation 3
+483,God of War,"Action-adventure, hack and slash",Single-player,PlayStation 4
+484,Getting Over It with Benett Foddy,Platformer,Single-player,"Microsoft Windows, macOS, iOS, Android"
+485,PlayerUnknown's Battlegrounds,Battle royale,Multiplayer,"Microsoft Windows, Android, iOS, Xbox One, PlayStation 4"
+486,Uncharted: Drake's Fortune,"Action-adventure, third-person shooter, platformer",Single-player,"PlayStation 3, PlayStation 4"
+487,Uncharted: Golden Abyss,"Action-adventure, platform",Single-platform,PlayStation Vita
+488,Uncharted 4: A Thief's End,"Action-adventure, third-person shooter, platformer","Single-player, multiplayer",PlayStation 4
+489,Uncharted: The Lost Legacy,"Action-adventure, third-person shooter, platformer","Single-player, multiplayer",PlayStation 4
+490,Until Dawn,"Interactive drama, survival horror",Single-player,PlayStation 4
+491,Spider-Man (1982 video game),Action,"Single-player, multiplayer",Atari 2600
+492,Questprobe,Text adventure,Single-player,"Apple II, Atari 8-bit, Commodore 64, DOS, Acorn Electron, ZX Spectrum, MSX"
+493,The Amazing Spider-Man (1990 video game),"Puzzle, platform",Single-player,"Amiga, MS-DOS, Commodore 64, Atari ST"
+494,The Amazing Spider-Man (handheld video game),"Beat 'em up, action",Single-player,Game Boy
+495,Spider-Man vs. The Kingpin,Action,Single-player,"Master System, Mega Drive/Genesis, Game Gear, Sega CD"
+496,The Punisher: The Ultimate Payback!,Shoot 'em up,Single-player,Game Boy
+497,Spider-Man: The Video Game,Beat 'em up,Up to 4 players simultaneously,Arcade
+498,Spider-Man: Return of the Sinister Six,Action-adventure,Single-player,"NES, Master System, Game Gear"
+499,Spider-Man and the X-Men in Arcade's Revenge,"Action, platform",Single-player,"Super NES, Mega Drive/Genesis, Game Gear, Game Boy"
+500,Spider-Man and Venom: Maximum Carnage,Beat 'em up,Single player,"Super NES,ÿMega Drive/Genesis"
+501,Spider-Manÿ(1995 video game),Action,Single player,"Genesis, Super NES"
+502,Venom/Spider-Man: Separation Anxiety,Beat 'em up,"Single-player, cooperative","Super NES, Mega Drive/Genesis, PC"
+503,The Amazing Spider-Man: Web of Fire,Action-adventure,Single player,32X
+504,Spider-Manÿ(2000 video game),Action-adventure,Single-player,"PlayStation, Game Boy Color, Nintendo 64, Dreamcast, Microsoft Windows"
+505,Spider-Man 2: The Sinister Six,Action,Single-player,Game Boy Color
+506,Spider-Man 2: Enter Electro,Action-adventure,Single-player,PlayStation
+507,Spider-Man: Mysterio's Menace,Action,Single-player,Game Boy Advance
+508,Spider-Manÿ(2002 video game),Action-adventure,Single-player,"Game Boy Advance, GameCube, Microsoft Windows, PlayStation 2, Xbox"
+509,Spider-Man 2,Action-adventure,Single-player,"Game Boy Advance, GameCube, Microsoft Windows, PlayStation 2, Xbox, N-Gage, Mac OS X, Nintendo DS, PlayStation Portable"
+510,Ultimate Spider-Man,Action-adventure,Single-player,"Game Boy Advance, GameCube, Nintendo DS, Microsoft Windows, PlayStation 2, Xbox"
+511,Spider-Man: Battle for New York,"Action, platform",Single-player,"Game Boy Advance,ÿNintendo DS"
+512,Spider-Man 3,Action-adventure,Single-player,"Game Boy Advance, Java, Microsoft Windows, Nintendo DS, PlayStation 2, Wii, Xbox 360, PlayStation 3, PlayStation Portable"
+513,Spider-Man: Friend or Foe,Action,"Single-player, multiplayer","Microsoft Windows, Nintendo DS, PlayStation 2, Wii, Xbox 360, PlayStation Portable"
+514,Spider-Man: Web of Shadows,"Action-adventure,ÿMetroidvaniaÿ(DS) ",Single-player,"Microsoft Windows, Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Xbox 360"
+515,Spider-Man: Toxic City,Action,Single-player,"BlackBerry,ÿWindows Phone,ÿJ2ME"
+516,Spider-Man: Shattered Dimensions,"Action-adventure,ÿMetroidvaniaÿ(DS) ",Single-player,"Nintendo DS, PlayStation 3, Wii, Xbox 360, Microsoft Windows"
+517,Spider-Man: Edge of Time,Action-adventure,Single-player,"Nintendo 3DS, Nintendo DS, PlayStation 3, Wii, Xbox 360"
+518,The Amazing Spider-Manÿ(2012 video game),Action-adventure,Single-player,"Nintendo DS, Nintendo 3DS, PlayStation 3, Wii, Xbox 360, Microsoft Windows, Mobile, Wii U, Windows Phone, PlayStation Vita"
+519,Ultimate Spider-Man: Total Mayhem,Action-adventure,Single-player,"iOS, Android"
+520,The Amazing Spider-Man 2ÿ(2014 video game),Action-adventure,Single-player,"Android, iOS, Microsoft Windows, Nintendo 3DS, PlayStation 3, PlayStation 4, Wii U, Xbox 360, Xbox One"
+521,Spider-Man Unlimitedÿ(video game),Endless runner,Single-player,"Android,ÿiOS,ÿWindows Phone"
+522,Spider-Manÿ(2018 video game),Action-adventure,Single-player,PlayStation 4
+523,Red Dead Revolver,Action-adventure,"Single-player, multiplayer","PlayStation 2, Xbox"
+524,Red dead Redemption,Action-adventure,"Single-player, multiplayer","PlayStation 3, Xbox 360"
+525,Undead Nightmare,Action-adventure,"Single-player, multiplayer","PlayStation 3, Xbox 360"
+526,Red dead Redemption 2,Action-adventure,"Single-player, multiplayer","PlayStation 4, Xbox One, Microsoft Windows, Stadia"
+527,Counter-Strike,First-person shooter,Multiplayer,"Windows, Xbox, OS X, Linux"
+528,Counter-Strike: Condition Zero,First-person shooter,"Single-player, multiplayer","Windows, OS X, Linux"
+529,Counter-Strike: Source,First-person shooter,Multiplayer,"Windows, Mac OS X, Linux"
+530,Counter-Strike Online,First-person shooter,Multiplayer,Microsoft Windows

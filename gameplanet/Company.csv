@@ -1,0 +1,531 @@
+Company Identification Number,Company Name,Composer(s),Artist(s),Writer(s),Programmer(s),Developer(s),Engine,Director(s),Game Identification Number
+1,Rockstar Games,"Colin Anderson, Craig Conner, Grant Middleton",Ian McQue,"Brian Baglow, Brian Lawson",Keith R. Hamilton,"DMA Design, Tarantula Studios",Rockstar Advanced Game Engine (RAGE),Keith R. Hamilton,1
+2,Rockstar Games,"Colin Anderson, Craig Conner, Bert Reid, Stuart Ross, Paul Scargill, Anthony Paton","Ian McQue, Russel East",Dan Houser,"Keith R. Hamilton, Martin McKenzie","DMA Design, Tarantula Studios",Rockstar Advanced Game Engine (RAGE),"Jim Woods, David Jones, Simon Crispÿ",2
+3,Rockstar Games,"Craig Conner, Stuart Ross",Aaron Garbut,"James Worrall, Paul Kurowski, Dan Houser","Obbe Vermeij, Adam Fowler",DMA Design,RenderWare,,3
+4,Rockstar North,Lex Horton,Aaron Garbut,"Dan Houser, James Worrall","Obbe Vermeij, Adam Fowler, Alexander Roger",Rockstar North,RenderWare,,4
+5,Rockstar Games,Michael Hunter,Aaron Garbut,"Dan Houser, James Worrall, DJ Pooh","Adam Fowler, Obbe Vermeij",Rockstar North,RenderWare,,5
+6,Rockstar Games,"John Cacavas, Sonia Slany, K. Tatham","Aaron Garbut, Ian Bowden","Dan Houser, James Worrall, David Bland","Obbe Vermeij, Adam Fowler, Andrew Greensmith, Matthew Shepcar","Rockstar Leeds, Rockstar North",,,6
+7,Rockstar Games,"Stuart Hart, Steven Stern, Thomas Hirschmann","Aaron Garbut, Ian Bowden","Dan Houser,  David Bland","Obbe Vermeij, Adam Fowler, Alexander Roger, Al Dukes, Andrew Greensmith","Rockstar Leeds, Rockstar North",,,7
+8,Rockstar Games,Michael Hunter,Aaron Garbut,"Dan Houser, Rupert Humphries","Adam Fowler, Alexander Roger, Obbe Vermeij",Rockstar North,Rockstar Advanced Game Engine (RAGE),,8
+9,Rockstar Games,Stuart Hart,Aaron Garbut,"Dan Houser, Rupert Humphries","Adam Fowler, Alexander Roger, Obbe Vermeij",Rockstar North,Rockstar Advanced Game Engine (RAGE),,9
+10,Rockstar Games,"Aaron Johnston, Jesse Murphy, Avi Bortnick",Aaron Garbut,"Dan Houser, Rupert Humphries",Adam Fowler,Rockstar North,Rockstar Advanced Game Engine (RAGE),,10
+11,Rockstar Games,"Tangerine Dream, Woody Jackson, The Alchemist, Oh No",Aaron Garbut,"Dan Houser, Rupert Humphries, Michael Unsworth",Adam Fowler,Rockstar North,Rockstar Advanced Game Engine (RAGE),Leslie Benzies,11
+12,Electronic Arts (EA),"Jeff van Dyck,ÿSaki Kaskas",Markus Tessmann,,Brad Gour,EA Canada,,,12
+13,Electronic Arts (EA),"Saki Kaskas, Jeff van Dyck, Alistair Hirst","Scott Jackson, Kent Maclagan","Gregg Giles, Richard Mul, Scott Blackwood","Laurent Ancessi, David Lucas","EA Canadaÿ(PS), EA Seattleÿ(PC)",,,13
+14,Electronic Arts (EA),"Rom Di Prisco, Saki Kaskas, Matt Ragan, Alistair Hirst, Crispin Hands","Scott Jackson (PS1), Peter King (PS1), Stefan Schwartz (PC), Steve M. Suhy (PC)",Tony Whitney,"Brad Gour (PS1), David Lucas (PS1), Sam Deasy (PC)","EA Canadaÿ(PS), EA Seattleÿ(PC)",,Craig Sullivan,14
+15,Electronic Arts (EA),"Rom Di Prisco, Saki Kaskas, Crispin Hands",,,"Daniel Teh (PS1), Sam Deasy (PC)","EA Canadaÿ(PS), EA Seattleÿ(PC)",,,15
+16,Electronic Arts (EA),"Thomas Colin, Manuel Lauvernier, Saki Kaskas (PC)","Jean-Marie Nazaret, Robert Adams (PC)",,"Bertrand Felicite, Pierre-Arnaud Lambert, S‚bastien Tixier, Brad Gour (PC)","Eden Studios (PS), EA Canada (PC), Pocketeers (GBA)",,,16
+17,Electronic Arts (EA),,,,,"EA Black Box, EA Seattle (GameCube, Xbox & Windows)",EAGL,,17
+18,Electronic Arts (EA),,,,,"EA Black Box, Pocketeers (GBA)",EAGL,,18
+19,Electronic Arts (EA),Tom Salta,,,,"EA Black Box, Pocketeers (GBA)",EAGL 2,,19
+20,Electronic Arts (EA),Paul Linford,,,,"EA Canada, EA Black Box",EAGL 3,,20
+21,Electronic Arts (EA),Trevor Morris,,,,"EA Canada, EA Black Box (PC), Rovio Mobile (mobile), Global VR (arcade)",EAGL 3,Dave 'Foots' Footman,21
+22,Electronic Arts (EA),Tom Holkenborg,"Wilson Tang, Eduardo Agostini",,,EA Black Box,EAGL 4,Elin Anderson,22
+23,Electronic Arts (EA),"Paul Haslinger, Richard Dekkard, Alex Mauer (mobile)",,,,"EA Black Box, Exient Entertainment (Wii/PS2), Firebrand Games (DS)",EAGL 4,"Joseph A. Hodges, Kody Sabourin",23
+24,Electronic Arts (EA),"Stephen Baysted, Mick Gordon, Mark Morgan",,,Ged Keaveney,"Slightly Mad Studios, EA Bright Light (PSP)",MADNESS,Andy Garton,24
+25,Electronic Arts (EA),Pedro Bromfman,,,,"EA Montreal, Firebrand Games",,,25
+26,Electronic Arts (EA),Mick Gordon,Mike Hayes,,,"Quicklime Games, EA Singapore",EAGL 3,Rod Chong,26
+27,Electronic Arts (EA),"Marios Takoushis, Vanesa Lorena Tate","Henry LaBounta, Yuta Nakamura", Tracy Lynch Britton,,Criterion Games,Chameleon,"Fiona Sperry, Craig Sullivan",27
+28,Electronic Arts (EA),"Heavy Melody Music, Ramin Djawadi, Troels Folmann, Stephen Baysted, Mick Gordon, Mike Reagan",,Will Porter,,"Slightly Mad Studios, Straight Right",MADNESS,Ian Bell,28
+29,Electronic Arts (EA),"Chris Green, Vanesa Lorena Tate",Kirk Gibsons,Alex De Rakoff,Eric Turmel,Criterion Games,Frostbite 2,Justin Wiebe,29
+30,Electronic Arts (EA),"Chris Green, Vanesa Lorena Tate",,Andrew S. Walsh,,Criterion Software,Chameleon,"Craig Sullivan, Andrew S. Walsh ",30
+31,Electronic Arts (EA),Vanesa Lorena Tate,Christopher Kristiansson,Will Staples,Christian Holmqvist,"EA Gothenburg, Criterion Software",Frostbite 3,Craig Sullivan,31
+32,Electronic Arts (EA),Jamie Andersen,Steve Aoki,,,Firemonkeys Studios,Osiris mobile engine,,32
+33,Electronic Arts (EA),Photek,Abdul Khaliq,Daniel Roy Zack Betka Ben Blumenthal Mikael Hedberg,,Criterion Games,Frostbite,,33
+34,Electronic Arts (EA),Joseph Trapanese,Abdul Khaliq,"Daniel Roy, Zack Betka, Ben Blumenthal, Mikael Hedberg",,EA Gothenburg,Frostbite,William Ho,34
+35,Electronic Arts (EA),Pedro Bromfman,Darren White,,Nicolas Mercier,Ghost Games,Frostbite 3,Riley Cooper,35
+36,CD Projekt,"Marcin Przyby?owicz, P. T. Adamczyk, Paul Leonard-Morgan",Katarzyna Redesiuk,"Marcin Blacha, Jakub Szama?ek, Stanis?aw ?wi?cicki",,CD Projekt Red,REDengine 4,Adam Badowski,36
+37,Sony Interactive Entertainment,Gustavo Santaolalla,"Erick Pangilinan, Nate Wells",Neil Druckmann,"Travis McIntosh, Jason Gregory",Naughty Dog,Unreal Engine 4,"Bruce Straley, Neil Druckmann",37
+38,Activision,Michael Giacchino,Justin Thomas Michael Boon Ursula Escher Chance Glasco,Michael Schiffer,Jason West,Infinity Ward,id Tech 3,Ken Turner,38
+39,Activision,Graeme Revell,"Michael Boon, Ursula Escher",Michael Schiffer,Eric Pierce,Infinity Ward,IW engine v2.0,Jason West,39
+40,Activision,Joel Goldsmith,"Brian Anderson, Alex Bortoluzzi",Marc Guggenheim,,Treyarch,Treyarch NGL,Richard Farelly,40
+41,Activision,Stephen Barton,"Richard Kriegler, Chris Cherubini, Joel Emslie, Robert Gaines",Jesse Stern,"Richard Baker, Robert Field, Francesco Gigliotti, Earl Hammon, Jr",Infinity Ward,IW 3.0,Jason West,41
+42,Activision,Sean Murray,"Colin Whitney, Brian Anderson","Craig Houston, Patrick Doody, Chris Valenziano",,Treyarch,IW 3.0,Cesar Stastny,42
+43,Activision,Lorne Balfe,,Jesse Stern,,Infinity Ward,IW 4.0,Jason West,43
+44,Activision,Sean Murray,"Colin Whitney, James H. Dargie","Craig Houston, Dave Anthony, Corky Lehmkuhl","David King, Trevor Walker, James Snider",Treyarch,IW 3.0,"Dave Anthony, Corky Lehmkuhl",44
+45,Activision,Brian Tyler,Joseph Salud,"Paul Haggis, Will Staples",,"Infinity Ward, Sledgehammer Games",IW 5.0,"Steve Pearce, Steve Ackrich",45
+46,Activision,Jack Wall,Colin Whitney,"Dave Anthony, Craig Houston, David S. Goyer","David King, Trevor Walker, James Snider",Treyarch,IW Engine,Dave Anthony,46
+47,Activision,David Buckley,,Stephen Gaghan,,Infinity Ward,IW Engine,,47
+48,Activision,audiomachine,,"John MacInnes, Eric Hirshberg, Mark Boal",,Sledgehammer Games,,"Glen Schofield, Michael Condrey",48
+49,Activision,Jack Wall,Colin Whitney,Craig Houston,,Treyarch,IW Engine,"Jason Blundell, Dan Bunting",49
+50,Activision,Sarah Schachner,,"Taylor Kurosaki, Brian Bloom",,Infinity Ward,IW Engine,"Jacob Minkoff, Jordan Hirsh, Brian Bright",50
+51,Activision,Wilbert Roget II,,Jeremy Breslau,,Sledgehammer Games,,"Glen Schofield, Michael Condrey",51
+52,Activision,Jack Wall,Bruce Hall,"Dave Anthony, Craig Houston",,Treyarch,IW Engine,"Jason Blundell, Dan Bunting",52
+53,Activision,Sarah Schachner,,"Brian Bloom, Justin Harris, Taylor Kurosaki, Ben Chaney",,Infinity Ward,,,53
+54,Gathering of Developers,"K„rtsy Hatakka, Kimmo Kajasto, Perttu Kivilaakso, Health",,"Sam Lake, Dan Houser, Michael Unsworth, Rupert Humphrie",,"Remedy Entertainment (2001?2003), Rockstar Studios (2012)",,,54
+55,Rockstar Games,"K„rtsy Hatakka, Kimmo Kajasto",Saku Lehtinen,Sam Lake,Kim Salo,Remedy Entertainment,RenderWare,Markus M„ki,55
+56,Rockstar Games,Health,"Paul MacPherson, Joshua Bass, Rob Nelson","Dan Houser, Michael Unsworth, Rupert Humphries","Kevin Hoare, Hugues St. Pierre, Lewis Gordon",Rockstar Studios,RAGE,,56
+57,Br?derbund Software,"Francis Mechner (music) Tom Rettig (sound), Mark Cooksey (NES), Tommy Tallarico (Game Boy)",,,,Br?derbund,,,57
+58,"Br?derbund Software, Ubisoft",Tom Rettig,,,,Br?derbund,,,58
+59,"Red Orb Entertainment, Mattel Interactive",,,,,"Red Orb Entertainment (PC), Avalanche Software (Dreamcast)",NetImmerse,,59
+60,Ubisoft,Stuart Chatwood,Rapha‰l Lacoste,Jordan Mechner,Claude Langlais,Ubisoft Montreal,Jade,Patrice D‚silets,60
+61,"Ubisoft, Gameloft",Stuart Chatwood,,"Corey G. May, Michael Wendschuh",R‚gis Geoffrion,"Ubisoft Montreal, Pipeworks Software, Gameloft (iOS)",Jade,Jean-Christophe Guyot,61
+62,Ubisoft,"Stuart Chatwood, Inon Zur",Olivier Leonardi,"Corey May, Dooma Wendschuh","Philippe Trarieux, Charles Jacob","Ubisoft Montreal, Ubisoft Casablanca",Jade,Jean-Christophe Guyot,62
+63,Ubisoft,Stuart Chatwood,,,S‚bastien Lahaie,Ubisoft Montreal,,,63
+64,Ubisoft,"Stuart Chatwood, Inon Zur",Sanaa Mejjadi,,Idir Boumahdi,Ubisoft Casablanca,,,64
+65,Ubisoft,"Xbox 360, PS3, PC, Steve Jablonsky, Wii, NDS, PSP, Tom Salta",,Ceri Young,Alain Dessureaux,"Ubisoft Montreal, Ubisoft Quebec, Ubisoft Singapore, Ubisoft Casablanca",Anvil / Jade,Jean-Christophe Guyot,65
+66,Nintendo,Kazumi Totaka,,,Tsutomu Kaneshige,Nintendo EAD,,"Keizo Ohta, Takayuki Shimamura, Yoshikazu Yamashita",66
+67,Nintendo,Koji Kondo,"Shigeru Miyamoto, Takashi Tezuka",,"Toshihiko Nakago, Kazuaki Morita",Nintendo EAD,,Shigeru Miyamoto,67
+68,Nintendo,"Asuka Ota, Ryo Nagamatsu",,,,Nintendo EAD,,Yasuyuki Oyagi,68
+69,Nintendo,Ryo Nagamatsu,,,,Nintendo EAD Group No. 2,,"Takayuki Shimamura, Yoshikazu Yamashita",69
+70,Nintendo,Junichi Masuda,"Ken Sugimori, Atsuko Nishida","Satoshi Tajiri, Ryosuke Taniguchi, Fumihiro Nonomura, Hiroyuki Jinnai","Junichi Masuda, Shigeki Morimoto, Tetsuya Watanabe, Sousuke Tamada",Game Freak,,Satoshi Tajiri,70
+71,AcademySoft,,,,,AcademySoft,,,71
+72,Nintendo,"Kenta Nagata, Satomi Terui",,,,"Nintendo EAD, Retro Studios",,Kosuke Yabuki,72
+73,Nintendo,"Kazumi Totaka, Asuka Ohta",Koji Takahashi,"Takayuki Ikkaku, Arisa Hosaka, Toshihiro Kawabata",,Nintendo EAD,,Hisashi Nogami,73
+74,Xbox Game Studios,"Martin O'Donnell, Michael Salvatori",Marcus Lehto,Joseph Staten,,Bungie,,,74
+75,Nintendo,"Mahito Yokota, Koji Kondo",Kenta Motokura,Takayuki Ikkaku,"Naoki Koga, Takeshi Hayakawa",Nintendo EAD Tokyo,,Yoshiaki Koizumi,75
+76,Nintendo,,,,,Nintendo EAD,,,76
+77,"Mojang, Sony Interactive Entertainment, Xbox Game Studios",C418,"Markus Toivonen, Jasper Boerstra",,,Mojang,,,77
+78,,"Manaka Kataoka, Atsuko Asahi, Kazumi Totaka",,Makoto Wada,,Nintendo EAD,,"Isao Moro, Aya Kyogoku",78
+79,Nintendo,"Hironobu Yahata, Shinya Outouge",Akihiro Shibata,,Hideki Nishimoto,Hudson Soft,,Koji Matsuura,79
+80,EA Sports,,,,,EA Canada,"Ignite (PC, PS4, XONE)",,80
+81,Nintendo,Yoshihiro Tsukahara,,,Hideki Sahashi,Hudson Soft,,Shuichiro Nishiya,81
+82,EA Sports,,,,,EA Canada,Impact,,82
+83,Electronic Arts (EA),"Steve Jablonsky, Pieter A. Schlosser",Morgan Godat,Sean Baity,Darren Gyles,"Maxis Redwood Shores (PC/Mac), EA Mobile (mobile), Edge of Reality (consoles) ",,,83
+84,Nintendo,"Graeme Norgate, Grant Kirkhope, Robin Beanland","Karl Hilton, Adrian Smith, B. Jones",David Doak,,Rare,,Martin Hollis,84
+85,Square Enix,"Nobuo Uematsu, Masashi Hamauzu, Junya Nakano","Tetsuya Nomura, Yusuke Naora, Shintaro Takai","Kazushige Nojima, Daisuke Watanabe, Motomu Toriyama","Koji Sugimoto, Takashi Katano",Square Product Development Division 1,,Yoshinori Kitase,85
+86,Square Enix,Nobuo Uematsu,"Yusuke Naora, Tetsuya Nomura",Kazushige Nojima,Ken Narita,Square,,Yoshinori Kitase,86
+87,"The Pok‚mon Company, Nintendo","Hitomi Sato, Satoshi Nohara, Junichi Masuda, Go Ichinose",Ken Sugimori,"Toshinobu Matsumiya, Hitomi Sato, Suguru Nakatsui, Akihito Tomisawa",,Game Freak,,Takeshi Kawachimaru,87
+88,"Atari, Inc., Namco, BANDAI NAMCO Entertainment","Shigeichi Ishimura, Toshio Kai",,,Shigeo Funaki,Namco,,,88
+89,Nintendo,"Mahito Yokota, Ryo Nagamatsu, Koji Kondo",Daisuke Watanabe,,Takeshi Hayakawa,Nintendo EAD Tokyo,,Koichi Hayashida,89
+90,Nintendo,Koji Kondo,"Yoshiaki Koizumi, Yusuke Nakano","Toru Osawa, Kensuke Tanabe",Kenzo Hayakawa,Nintendo EAD,,"Toru Osawa, Yoichi Yamada, Eiji Aonuma, Yoshiaki Koizumi, Toshio Iwawaki",90
+91,Sony Interactive Entertainment,Josh Mancell,"Charles Zembillas, Erick Panglilinan, Bob Rafei",Jason Rubin,Andy Gavin,Naughty Dog,,Jason Rubin,91
+92,Nintendo,Koji Kondo,Tadashi Sugiyama,,,"Nintendo EAD (NES, SNES), Nintendo R&D2 (GBA)",,Kensuke Tanabe,92
+93,Electronic Arts (EA),"Johan Skugge, Jukka Rintam„ki",,"David Goldfarb, Adrian Vershinin",,EA DICE,Frostbite 2,Tom Keegan,93
+94,Nintendo,"Toru Minegishi, Asuka Ohta, Koji Kondo","Yusuke Nakano, Satoru Takizawa","Aya Kyogoku, Takayuki Ikkaku, Mitsuhiro Takano, Eiji Aonuma",,Nintendo EAD,,Eiji Aonuma,94
+95,Ubisoft,,,,,"Ubisoft Paris, Ubisoft Milan, Ubisoft Reflections, Ubisoft Montreal, etc",,,95
+96,Namco,"Nobuyoshi Sano, Keiichi Okabe, etc",,,Masanori Yashinari Mizushima,Namco,,"Masamichi Abe, Yutaka Kounoe",96
+97,Sony Interactive Entertainment,Josh Mancell,"Bob Rafei, Charles Zembillas, Erik Panglilinan",Jason Rubin,"Andy Gavin, Stephen White, Greg Omi",Naughty Dog,,Jason Rubin,97
+98,Nintendo,"Hirokazu Ando, Shogo Sakai, Tadashi Ikegami",,,Yoshiki Suzuki,HAL Laboratory,,Masahiro Sakurai,98
+99,Nintendo,"Shiho Fujii, Atsuko Asahi, Ryo Nagamatsu, Yasuaki Iwata",Masaaki Ishikawa,,Yusuke Shiraiwa,Nintendo EAD,,Kosuke Yabuki,99
+100,Bethesda Softworks,Inon Zur,Itsvan Pely,Emil Pagliarulo,Guy Carver,Bethesda Game Studios,Creation Engine,Todd Howard,100
+101,Nintendo,"Shinobu Tanaka, Kenta Nagata",,,,Nintendo EAD,,"Yasuyuki Oyagi, Futoshi Shirai, Daiji Imai",101
+102,Ubisoft,,,,,"Ubisoft Milan, Ubisoft Paris, Ubisoft Reflections, Ubisoft Bucharest, Ubisoft Pune",,,102
+103,EA Sports,,,,,EA Canada,,,103
+104,Electronic Arts (EA),Michael Giacchino,,,,EA Los Angeles,,,104
+105,Sony Interactive Entertainment,Greg Edmonson,"Erick Pangilinan, Robh Ruppel",Amy Hennig,"P†l-Kristian Engstad, Travis McIntosh, Christian Gyrling",Naughty Dog,,"Amy Hennig, Justin Richmond",105
+106,"Majesco Entertainment, 505 Games",,,,,Pipeworks software,Unreal Engine 3,,106
+107,Xbox Game Studios,Steve Jablonsky,Chris Perna,Joshua Ortega,Ray Davis,Epic Games,Unreal Engine 3,,107
+108,Sony Interactive Entertainment,Greg Edmonson,"Erick Pangilinan, Robh Ruppel","Amy Hennig, Neil Druckmann, Josh Scherr","P†l-Kristian Engstad, Travis McIntosh, Dan Liebgold",Naughty Dog,,"Bruce Straley, Amy Hennig",108
+109,EA Sports,,,,,EA Canada,,,109
+110,Nintendo,Kenta Nagata,,,,Nintendo EAD Group No. 4,,Tomoaki Yoshinobu,110
+111,EA Sports,,,,,EA Canada,"Ignite (PC, PS4, XONE)",,111
+112,Nintendo,,Vince Joly,,,Retro Studios,,Bryan Walker,112
+113,Bethesda Softworks,"	Jeremy Soule",Matthew Carofano,Emil Pagliarulo,Guy Carver,"Bethesda Game Studios	",Creation Engine,Todd Howard,113
+114,Bungie ,Martin O'Donnell,Marcus Lehto,,,Bungie,,"	Jason Jones",114
+115,"The Pok‚mon Company,Nintendo","Go Ichinose,Junichi Masuda,Morikazu Aoki,Hitomi Sato",Ken Sugimori,Akihito Tomisawa,,,,,115
+116,The Pok‚mon Company,"Go Ichinose,Junichi Masuda,Morikazu Aoki,Hitomi Sato",Ken Sugimori,Akihito Tomisawa,,Game Freak,,Junichi Masuda,116
+117,Bungie ,Martin O'Donnell,Marcus Lehto,,,Bungie,,"	Jason Jones",117
+118,Nintendo,,,Makoto Wada,Koichi Hayashida,Nintendo EAD,,"Yoshiaki Koizumi,Kenta Usui",118
+119,Capcom,,"Eri Nakamura,Satoru Yamashita",,"Shinichi Ueyama,Seiji Okada,Yoshihiro Matsui,Motohide Eshiro",Capcom,,Hiroshi Matsumoto,119
+120,Blizzard Entertainment,,,,,Blizzard Entertainment,,,120
+121,"GT Interactive Software,Infogrames,MacSoft,Gameloft",,,Maurice Suckling,,"Reflections Interactive,Crawfish Interactive(GBC)",,,121
+122,Microsoft Game Studios,,,,,Rare,,,122
+123,Microsoft Studios,,"Chris Perna,Wyeth Johnson","Karen Traviss,Eric Nylund,Aaron Linde",Joe Graf,Epic Games,Unreal Engine 3,,123
+124,Microsoft Game Studios,,"Jeremiah O'Flaherty,Chris Perna","Susan O'Connor,Eric Nylund",Ray Davis,Epic Games,Unreal Engine 3,,124
+125,Konami,,Yoji Shinkawa,"Hideo Kojima,Tomokazu Fukushima",Kazunobu Uehara,"Konami Computer,Entertainment Japan",,Hideo Kojima,125
+126,Sega,,"Yasushi Yamaguchi,Jina Ishiwatari,Rieko Kodama,Tim Skelly",,"Yuji Naka,Bill Willis,Masanobu Yamamoto",Sega Technical Institute,,Masaharu Yoshii,126
+127,Konami,"Harry Gregson Williams,Nobuko Toda,Shuichi Kobori,Kazuma Jinnouchi",Yoji Shinkawa,"Hideo Kojima,Shuyo Murata",Yuji Korekado,Kojima Productions,,Hideo Kojima,127
+128,Konami,"Kazuki Muraoka,Hiroyuki Togo,Takanari Ishiyama,Lee Jeon Myung,Maki Kirioka",Yoji Shinkawa,"Hideo Kojima,Tomokazu Fukushima",Kazunobu Uehara,"Konami Computer,Entertainment Japan",,Hideo Kojima,128
+129,Square Enix,"Hitoshi Sakimoto,Hayato Matsuo,Masaharu Iwata","Akihiko Yoshido,Hideo Minaba","Daisuke Watanabe,Miwa Shoda",Takashi Katano,Square Enix ,,"Hiroyuki Ito,Hiroshi Minagawa",129
+130,Sony Computer Entertainment,,,,,"Media Molecule,SCE Cambridge Studio,Tarsier Studios,Xdev",,,130
+131,Nintendo,Koichi Sugiyama,Akira Toriyama,"Yuri Horii,Fuminori Ishikawa,Takeshi Uchikawa,Kenjiro Mori,Misato Zenba",,Level-5,,"Akihiro Hino,Jin Fujisawa",131
+132,LucasArts,"Adam Hay,David Whittaker",James Cunliffe,,John Hodkinson,Traveller's Tales,,John Burton,132
+133,Namco,Yoshie Arakawa,,,Masanori Yamada,Namco,,Seiichi Ishii,133
+134,"Taito,Square Enix",,,,,Office Create,,,134
+135,Activision,"Michael Salvatori,C Paul Johnson,Martin O'Donell,Paul McCartney","Christopher Barett,David Dunn","Clay Carmouche,Seth Dickinson,Jonathan Goff","Chris Butcher,Ben Wallace,Zach Russell",Bungie,,Jason Jones,135
+136,Microsoft Game Studios,,,,,Turn 10 Studios,,,136
+137,Capcom,"Yuko Komiyama,Akihiko Narita,Tadayoshi Makino",,,,Capcom,,Yasunori Ichinose,137
+138,Nintendo,"Kenichi Nishimaki,Minako Hamano",,,,Intelligent Systems,,"Takeshi Ando,Yukio Morimoto",138
+139,Nintendo,Koji Kondo,Shigefumi Hino,,Toshihiko Nakago,Nintendo EAD,,Takashi Tezuka,139
+140,Nintendo,"Kenta Nagata,Hajime Wakai,Toru Minegishi",Tatsuya Hishida,,Yasunari Nishida,"Nintendo EAD,HAL Laboratory",,Takao Shimizu,140
+141,Universal Interactive Studios,Andy Blythe and Marten Joustra,James Cunliffe,Jon Burton,John Hodkinson,Traveller's Tales,,Jon Burton,141
+142,Square Enix,Masahi Hamauzu,"Isamu Kamikokuryo,Tetsuya Nomura","Daisuke Watanabe,Motomu Toriyama",Yoshiki Suzuki,Square Enix 1st Production Department,Crystal Tools,Motomu Toriyaman,142
+143,Nintendo,Hirokazu Tanaka,,,,Nintendo R&D1,,,143
+144,Nintendo,Go Ichinose,,,,"Jupiter,HAL Laboratory",,,144
+145,Square Electronic Arts,Nobuo Uematsu,"Toshiyuki Itahana,Yoshitaka Amano",Hironobu Sakaguchi,Hiroshi Kawai,Square,Unity(enhanced ports only),Hiroyuki Ito,145
+146,Square Enix,"Noriko Matsueda,Takahito Eguchi",Shintaro Takai,"Kazushige Nojima,Daisuke Watanabe","Yukio Ishii,Masaki Kobayashi",Square Product Development Division 1,,Motomu Toriyaman,146
+147,Nintendo,Grant Kirkhope,Mark Stevenson,,Chris Sutherland,Rare,,George Andreas,147
+148,"Level 5,Nintendo",Tomohito Nishiura,,,,"Level 5,Matrix Software",,Tatsuya Shinkai,148
+149,Eidos Interactive,Nathan McCree,"Stewart Atkinson,Joss Charmet",Vicky Arnold,Gavin Rummery,Core Design,,,149
+150,EA Sports,,,,,"EA Tiburon,Budcat(PS & GBA)",,,150
+151,Square Enix,Koichi Sugiyama,"Akira Toriyama,Takayuki Sameshima,Kazunari Matsuo",Yuji Horii,,"Level-5,Square Enix",,Akihiro Hino,151
+152,Blizzard Entertainment,Russell Brower,Christian Lichtner,Chris Metzen,Jason Regier,Blizzard Entertainment,,Jay Wilson,152
+153,Nintendo,Koji Kondo,"Hideki Konno,Takashi Tezuka,Hiroyuki Kimura",,Toshihiko Nakago,Nintendo EAD,,"Shigeru Miyamoto,Takashi Tezuka",153
+154,MTV Games,,,,,"Harmonix,Pi Studios",,,154
+155,Nintendo,Kozue Ishikawa,,,"Masaru Yamanaka,Katsuya Yamano,Nobuhiro Ozaki,Yoshinori Katsuki",,,Takehiko Hosokawa,155
+156,"Sega,Gameloft","Tomoya Ohtani,Fumie Kumatani,Kenichi Tokoi,Hideaki Kobayashi,Takahito Eguchi",,Kiyoko Yoshimura,,Sonic Team,,Yoshihisa Hashimoto,156
+157,Konami,,,,,Konami,,,157
+158,LucasArts,Jeremy Soule,Derek Watts,Drew Karpyshyn,"David Falkner,Mark Brockington",BioWare,Odyssey Engine,Casey Hudson,158
+159,Nintendo,Tadashi Ikegami,,,,,,Masahiro Sakurai,159
+160,Nintendo,"David Wise,Eveline Fischer","Steve Mayles,Kevin Bayliss,Mark Stevenson,Adrian Smith","Gregg Mayles,Daniel Owsen",Chris Sutherland,Rare,,"Tim Stamper,Chris Stamper",160
+161,"Square Enix,Feral Interactive(Mac)","Thomas Bartschi,Peter Kyed,Peter Peter,Dynamedion",Martin Vestergaard Madsen,"Greg Nagan,Tore Blystad,Michael Vogt",,IO Interactive,,"Tore Blystad,Peter Fleckenstein",161
+162,Sony Computer Entertainment,,,,,Rainbow Studios,,,162
+163,Microsoft Studios,,,,,Turn 10 Studios,,,163
+164,EA Sports,Christopher Lennertz,,,,EA Tiburon,Ignite,,164
+165,"Nintendo,The Pokemon Company","Takuto Kitsuta,Kinta Sato",,"Toshinobu Matsumiya,Akihito Toda",,,,,165
+166,Nintendo,Yoko Shimomura,Toshizo Morikawa,Hiroyuki Kubota,Masashi Haraki,AlphaDream,,Yoshihiko Maekawa,166
+167,Square Enix,"Noriko Matsueda,Takahito Eguchi",Shintaro Takai,"Kazushige Nojima,Daisuke Watanabe","Yukio Ishii,Masaki Kobayashi",Square Product Development Division 1,,Motomu Toriyaman,167
+168,LucasArts,Chris Hulsbeck,,,,"Factor 5,LucasArts",,,168
+169,Big Ant Studios,,,,,Big Ant Studios,,,169
+170,Electronic Arts (EA),,Charles London,Sean Baity,"Jeffrey Charvat,Jim Mackraz","Maxis, Edge of Reality (consoles) ",,,170
+171,R.Talsorian Games,,,,,,,,171
+172,CD Projekt,,Katarzyna Redesiuk,"Marcin Blacha, Jakub Szama?ek, Stanis?aw ?wi?cicki",,CD Projekt Red,REDengine 4,Adam Badowski,172
+173,R.Talsorian Games,,,Mike Pondsmith,,,,,173
+174,Core Design,,Adrian Robert Cummings,,,Mutation,,,174
+175,,,,Mike Pondsmith,,,,,175
+176,Ubisoft,,Rapha‰l Lacoste,Corey May,Mathieu Mazerolle,Ubisoft Montreal,Scimitar,Patrice D‚silets,176
+177,Ubisoft,,Arthur Hugot,,,Gameloft Bucharest,,,177
+178,Ubisoft,,,Darby McDevitt,,"Ubisoft Montreal,Griptonite Games",,,178
+179,Ubisoft,,Mohamed Gambouz,"Corey May,Joshua Rubin,Jeffrey Yohalem",,Ubisoft Montreal,Anvil ,Patrice D‚silets,179
+180,Ubisoft,,,Darby McDevitt,,Griptonite Games,HYBRID Engine 2.5,,180
+181,Ubisoft,,Mohamed Gambouz,"Patrice Desilets,Jeffrey Yohalem",Stephane Girard,Ubisoft Montreal,Anvil,Patrick Plourde,181
+182,Ubisoft,,Rapha‰l Lacoste,Darby McDevitt,Alexandre Begnoche,Ubisoft Montreal,Anvil,Alexandre Amancio,182
+183,Ubisoft,,The Chinh Ngo,Corey May,David Champagne,Ubisoft Montreal,AnvillNext,Alex Hutchinson,183
+184,Ubisoft,,,"Richard Farrese,Jill Murray",,"Ubisoft Sofia,Ubisoft Milan,Ubisoft Montreal",AnvillNext,Julian Gollop,184
+185,Ubisoft,,Rapha‰l Lacoste,Darby McDevitt,,"Ubisoft Montreal,Ubisoft Milan,Ubisoft Kiev",AnvillNext,"Jean Guesdon,Ashraf Ismail,Damien Kieken",185
+186,Ubisoft,,,,,Ubisoft Paris,,,186
+187,Ubisoft,,,"Jill Murray,Melissa MacCoubrey,Hugo Giard,Wesley Pincombe",,,,,187
+188,Ubisoft,,Eddie Benunn,Richard Farrese,,Ubisoft Sofia,AnvillNext,"Mikhail Lozanov,Spass Kroushkov,Martin Capel",188
+189,Ubisoft,,,,,Blue Byte,Unity,,189
+190,Ubisoft,,Mohamed Gambouz,"Sylvain Bernard,Travis Stout,Drby McDevitt",James Therien,Ubisoft Montreal,AnvillNext 2.0,"Alexandre Amancio,Marc Albinet",190
+191,Ubisoft,,Neale Williams,,Ben Potton,Climax Studios,,,191
+192,Ubisoft,,Thierry Dansereau,"Corey May,Jefferey Yohalem",Pierre-Luc Cote,Ubisoft Quebec,AnvillNext 2.0,"Marc-Alexis Cote,Scott Phillips,Wesley Pincombe",192
+193,Ubisoft,,Rapha‰l Lacoste,Alain Mercieca,Frederick Champoux,Ubisoft Montreal,AnvillNext 2.0,"Jean Guesdon,Ashraf Ismail",193
+194,Ubisoft,,Thierry Dansereau,"Jonathan Dumont,Melissa MacCoubrey,Hugo Giard",,Ubisoft Quebec,AnvillNext 2.0,"Jonathan Dumont,Scott Phillips",194
+195,Ubisoft,,,,,,,,195
+196,Ubisoft,,,Kevin Shortt,Patrick Zink,Ubisoft Montreal,,Jonathan Morin,196
+197,Ubisoft,,,Lucien Soulban,,Ubisoft Montreal,,"Jonathan Morin,Patrick Plourde,Danny Belanger",197
+198,Ubisoft,,,,,Ubisoft Toronto,,Clint Hocking,198
+199,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,199
+200,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,200
+201,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,201
+202,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,202
+203,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,203
+204,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,204
+205,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,205
+206,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,206
+207,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,207
+208,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,208
+209,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,209
+210,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,210
+211,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,211
+212,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,212
+213,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,213
+214,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,214
+215,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,215
+216,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,216
+217,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,217
+218,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,218
+219,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,219
+220,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,220
+221,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,221
+222,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,222
+223,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,223
+224,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,224
+225,Square Enix,Jeff Tymoschuk,"Hani Abu-Ghazaleh,Joshua Lee","Jacob Krarup,Tim Carter",Dave Roberts,"United Front Games,Square Enix London Studios",,,225
+226,Sunsoft,Naoki Kodaka,,,,Sunsoft,,,226
+227,Data East,,,,,Special FX Software Ltd.,,,227
+228,Ocean Software,,,,,Ocean Software,,,228
+229,Sunsoft,,,,,Sunsoft,,,229
+230,Sunsoft,Naoki Kodaka,,,,Sunsoft,,,230
+231,Atari Games,,,,,Atari Games,,,231
+232,Sunsoft,Naoki Kodaka,,,,Sunsoft,,,232
+233,Aspect,Paul Gadbois,Tom Applegate,,Andrew Greene,Sega,,John O'Brian,233
+234,Konami,,,,,Konami,,,234
+235,Konami,Jesper Kyd,,,,Konami,,,235
+236,Acclaim Entertainment,Tim Follin,,,,Probe Entertainment,Mortal Kombat 2,,236
+237,Acclaim Entertainment,Rick Fox,Michael McCallion,,Carl Wade,Probe Entertainment,,,237
+238,Acclaim Entertainment,,,,,Probe Entertainment,,,238
+239,Ubi Soft,,,,,Kemco,,,239
+240,Ubi Soft,,,,,Digital Eclipse Software,,,240
+241,Ubi Soft,,,,,Sinister Games,,,241
+242,Ubi Soft,,,,,Ubi Soft Montreal,,,242
+243,Kemco,Tot Taylor,Takeshi Okatamo,Scott Peterson,Tomoharu Aihara,Kemco,,Tafaumi Yuki,243
+244,Ubi Soft,Mathieu Vanasse,Daniel Marcoux,,,Ubi Soft Montreal,RenderWare,,244
+245,EA Games,Ian Livingston,,,,Eurocom,,,245
+246,Warner Bros. Interactive Entertainment,Danny Elfman,James Cunliffe,,Luke Giddings,TT Fusion,,Jon Burton,246
+247,Warner Bros. Interactive Entertainment,Ron Fish,David Hego,Paul Dini,Ben Wyatt,Rocksteady Studios,Unreal Engine 3,Sefton Hill,247
+248,Warner Bros. Interactive Entertainment,Adam Tierney,Marc Gomez,Adam Tiernay,Lee McDole,WayForward Technologies,,Adam Tiernay,248
+249,Warner Bros. Interactive Entertainment,Ron Fish,David Hego,Paul Dini,Ben Wyatt,Rocksteady Studios,Unreal Engine 3,Sefton Hill,249
+250,Warner Bros. Interactive Entertainment,Rob Westwood,Leon Warren,David Goodman,Steve Harding,TT Fusion,,Jon Burton,250
+251,Warner Bros. Interactive Entertainment,Cristopher Drake,Jeremy Price,Corey May,Olivier Pomarez,WB Games Montreal,Unreal Engine 3,Eric Holmes,251
+252,Warner Bros. Interactive Entertainment,,Todd Keller,Adam Beechen,,Armature Studio,,Mark Pacini,252
+253,Raw Thrills,,,,,Specular Interactive,,,253
+254,Warner Bros. Interactive Entertainment,Rob Westwood,Leon Warren,David Goodman,Ben Klangs,TT Fusion,,Arthur Parsons,254
+255,Warner Bros. Interactive Entertainment,David Buckley,David Hego,Ian Ball,Ben Wyatt,Rocksteady Studios,Unreal Engine 3,Sefton Hill,255
+256,Warner Bros. Interactive Entertainment,David Buckley,David Hego,Martin Lancaster,Ben Wyatt,Rocksteady Studios,Unreal Engine 4,Sefton Hill,256
+257,,,,,,Virtuos,Unreal Engine 4,,257
+258,Telltale Games,Jared Emerson-Johnson,Martin McDonald,Zack Keller,Jason Kim,Telltale Games,Telltale Tool,Kent Mudle,258
+259,Telltale Games,Jared Emerson-Johnson,,Meghan Thorton,,Telltale Games,Telltale Tool,,259
+260,Sega,Yuzo Koshiro,,,Matsuhide Mizoguchi,Sega,,Noriyoshi Ohba,260
+261,Acclaim Entertainment,Matt Uelman,,,,Sunsoft,,,261
+262,Midway Games,,,,,Saffire Corporation,,,262
+263,Midway Games,,,,,Full Fat,,,263
+264,Warner Bros. Games,,,,,Snowblind Studios,,,264
+265,NA: Warner Bros. Games,,,,David Wright,WayForward Technologies,,Adam Tiernay,265
+266,Midway Games,Cris Velasco,Carlos Pesina,John Vogel,Michael Boon,Midway Games,Unreal Engine 3,Ed Boon,266
+267,WB Games,Gerard Marino,,Geoff Johns,,Dimensional Ink Games,Unreal Engine 3,S.J. Mueller,267
+268,Warner Bros. Interactive Entertainment,Nathan Grigg,David Longo,,Brad Prendleton,Monolith Productions,Lithtech Jupiter EX,,268
+269,Warner Bros. Interactive Entertainment,Cris Velasco,Steve Baren,John Vogel,,NetherRealm Studios,Unreal Engine 3,Ed Boon,269
+270,Warner Bros. Interactive Entertainment,,,,,5th Cell,,,270
+271,Warner Bros. Interactive Entertainment,Mark Mothersbaugh,Paul Jones,,Phil Owens,TT Fusion,,,271
+272,Warner Bros. Interactive Entertainment,,,,,Turbine,,,272
+273,Warner Bros. Interactive Entertainment,Ian Livingston,Leon Warren,Jon Burton,Ben Klangs,Traveller's Tales,,Jon Burton,273
+274,Warner Bros. Interactive Entertainment,Cristopher Drake,Steve Baren,Shawn Kittelsen,,NetherRealm Studios,Unreal Engine 3,Ed Boon,274
+275,Tencent,Hans Zimmer,,,,Tencent,Unity,,275
+276,,,,,,,,,276
+277,Warner Bros. Interactive Entertainment,Danny Elfman,,,,TT Fusion,,Jon Burton,277
+278,Electronic Arts,,,,,Pandemic Studios,,,278
+279,,,,,,,,,279
+280,,,,,,,,,280
+281,,,,,,,,,281
+282,,,,,,,,,282
+283,Warner Bros. Interactive Entertainment,Nick Arundel,,,,NetherRealm Studios,,,283
+284,,,,,,,,,284
+285,Warner Bros. Interactive Entertainment,,,,,NetherRealm Studios,Unreal Engine 3,Ed Boon,285
+286,Telltale Engines,Jared Emerson-Johnson,Martin McDonald,"Zack Keller,James Windeler,Nicole Martinez,Eric Stirpe,Meghan Thornton","Tulley Rafferty,Jason Kim,Greg Felber,Michael Carpenter",Telltale Games,Telltale tool,"Kent Mudle,Jonathan Stauder,Jason Pyke,Mark Droste",286
+287,,,,,,,,,287
+288,Telltale Engines,Jared Emerson-Johnson,Martin McDonald,"Zack Keller,James Windeler,Nicole Martinez,Eric Stirpe,Meghan Thornton","Tulley Rafferty,Jason Kim,Greg Felber,Michael Carpenter",Telltale Games,Telltale tool,"Kent Mudle,Jonathan Stauder,Jason Pyke,Mark Droste",288
+289,Sony Computer Entertainment,,,,,SCE San Diego Studio,,,289
+290,Sony Computer Entertainment,,,,,SCE San Diego Studio,,,290
+291,Sony Computer Entertainment,,,,,SCE San Diego Studio,,,291
+292,Sony Computer Entertainment,,,,,SCE San Diego Studio,,,292
+293,Sony Computer Entertainment,,,,,SCE San Diego Studio,,,293
+294,Sony Computer Entertainment,,,,,SCE San Diego Studio,,,294
+295,EA Sports,Jeff van Dyke,,,,Extended Play Productions Creative Assembly,,,295
+296,EA Sports,Jeff van Dyke,,,,Extended Play Productions Creative Assembly,,,296
+297,EA Sports,Robert Bailey,,,,Extended Play Productions Probe Entertainment,,,297
+298,EA Sports,Graeme Coleman,,,,EA Canada,,,298
+299,EA Sports,,,,,EA Canada,,,299
+300,EA Sports,,,,,EA Canada,,,300
+301,EA Sports,,,,,EA Canada,,,301
+302,EA Sports,,,,,EA Canada,,,302
+303,EA Sports,,,,,EA Canada,,,303
+304,EA Sports,,,,,EA Canada,,,304
+305,EA Sports,,,,,EA Canada,,,305
+306,EA Sports,,,,,EA Canada,,,306
+307,EA Sports,,,,,EA Canada,,,307
+308,EA Sports,,,,,EA Canada,,,308
+309, EA Sports BIG,,,,,EA Canada,,,309
+310,Electronic Arts,,,,,EA Canada,,,310
+311,EA Sports BIG,,,,,EA Canada,,,311
+312,EA Sports,,,,,EA Canada,,,312
+313,Electronic Arts,,,,,EA Canada,,,313
+314,EA Sports,,,,,EA Canada,,,314
+315,EA Sports BIG,,,,,EA Canada,,,315
+316,EA Sports,,,,,EA Canada,,,316
+317,EA Sports,,,,,EA Canada,,,317
+318,EA Sports,,,,,EA Canada,,,318
+319,EA Sports,,,,,EA Canada,,,319
+320,EA Sports,,,,,EA Canada,,,320
+321,EA Sports,,,,,EA Canada,,,321
+322,EA Sports,,,,,EA Canada,,,322
+323,EA Sports,,,,,EA Canada,,,323
+324,EA Sports,,,,,EA Canada,,,324
+325,EA Sports,,,,,EA Canada,,,325
+326,EA Sports,,,,,EA Vancouver,,,326
+327,EA Sports,,,,,EA Mobile,,,327
+328,EA Sports,,,,,EA Vancouver,,,328
+329,EA Sports,,,,,EA Vancouver,,,329
+330,EA Sports,,,,,EA Vancouver,,,330
+331,2K Sports,,,,,Visual Concepts,RenderWare,,331
+332,2K Games/Empire Interactive,"Muddy Funkers,Paul Strod,Tim Follin",,,,"Razerworks,Visual Impact",,,332
+333,"2K Games,MacSoft",,,,,Destineer,,,333
+334,2K Games,,,,,Eutechnyx,,,334
+335,2K Games,Robert L.Euvino,"Darren White,Robert Thonley,Jorge Cameo,Jason Juta","Simon Bradbury,Casimir C Windsor","Andrew Prime,Will Wilson,Warrick Buchanan,Bob Kang",Firefly Studios,,,335
+336,"Global Star,2K Games",,,,,Deibus Studios,,,336
+337,"Atari,2K Games,Feral Interactive","Mark Cromer,Michael Curran","Jermoe Atherholt,Marc Hudgins",,Don Wueschell,Firaxis Games,Gamebryo,,337
+338,2K Sports,,,,,"Kush Games,Visual Concepts",,,338
+339,2K Sports,,,,,Visual Concepts,,,339
+340,"Microsoft Game Studios,2K Sports,Atari",,,,,PAM Development,,,340
+341,"2K Games,Sci Games",,,,,Pivotal Games,,,341
+342,"2K Games,Devolver Digital",,,,,Croteam,Serious Engine,,342
+343,2K Games,,,,,PopTop Software,,,343
+344,"Bethesda Softworks,Ubisoft",Greg Chandler,"Rob StepToe,Troy Tempest","Christopher Gray,Graeme Davis",Gareth Clarke,Headfirst Productions,,Simon and Michael Woodroffe,344
+345,2K Games,,,,,"Pterodon,Illusion Softworks",,,345
+346,"2K Games,Aspyr","Jeffery L.Briggs,Christopher Tin",Steve Ogden,,Soren Johnson,Firaxis Games,Gamebryo,Sid Meier,346
+347,2K Sports,Matt Heider,Jared Bastian,Aaron Conners,,Indie Built,,,347
+348,2K Sports,,,,,Visual Concepts,,,348
+349,2K Games,,,,,49Games,,,349
+350,"2K Games,Sony Computer Entertainment Europe",Sean Callery,Rob Hill,Duppy Demetrius,,SCE Studio Cambridge,,,350
+351,"2K Games,Bethesda Softwoeks",Jeremy Soule,Matthew Carofano,"Michael Kirkbride,Ted Peterson","Guy Carver,Craig Walton",Bethesda Game Studios,Gamebryo,,351
+352,"2K Sports,Aspyr,Superscape",,,,,"Indie Built,Aspyr,Magic Pockets,MENT",,,352
+353,2K Sports,,,,,Visual Concepts,,,353
+354,2K Games,Winifred Phillips,David R.Donatucci,"David Kristofer Fried,Paul Robinsome,Joseph Norris",David Mark Byttow,The Collective,,,354
+355,Bethesda Softworks,Mick Gordon,,"Ricardo Bare,Chris Avellone,Raphael Colantonio",Stevan Hird,Arkane Studios,CryEngine,Raphael Colantonio,355
+356,2K Games,Robert L.Euvino,Darrin Horbal,Simon Bradbury,,"Firefly Studios,Firaxis Games",,,356
+357,2K Sports,,,,,"Kush Games,Visual Concepts",,,357
+358,2K Games,,,"Steve Callaghan,Kirker Butler,Patrick Meighan",,High Voltage Software,,,358
+359,"2K Games,Feral Interactive",,,,,"Firaxis Games,Feral Interactive",Gamebryo,,359
+360,2K Games,Robert L.Euvino,Robert Thornley,"Rhianna Pratchett,Simon Bradbury","Warrick Buchanan,Andrew Prime,Will Wilson",Firefly Studios,,,360
+361,,,,,,,,,361
+362,2K Sports,,,,,Visual Concepts,,,362
+363,2K Sports,,,,,Visual Concepts,,,363
+364,2K Games,Timo Baker,"Glenn Brace,Neale Williams",,"Kostas Kostiadis,Dave Owens",Climax Action,,Mark Simmons,364
+365,Microsoft Game Studios,Jack Wall,Matt Goldman,"Luke Kristjanson,Mike Laidlaw",Mark Darrah,"Bioware,TransGaming,Aspyr,LTI Gray Matter","Jim Bishop,Diarmid Clarke","Jim Bishop,Diarmid Clarke",365
+366,2K Sports,,,,,Visual Concepts,,,366
+367,2K Games,Ron Fish,,"Flint Dille,John Zuur Platten",,"7 Studios,Visual Concepts",,,367
+368,2K Sports,,,,,Blue Castle Games,,,368
+369,2K Games,Gustaf Grefberg,Jens Matthies,"Paul Jenkins,Mikchael Saker",Magnus Hogdahl,Starbreeze Studios,,,369
+370,2K Sports,,,,,Visual Concepts,,,370
+371,2K Games,Garry Schyman,Scott Sinclair,Ken Levine,"Rowan Wyborn,Christopher Kline","2K Boston,2K Australia",Unreal Engine 2.5,Ken Levine,371
+372,2K Sports,,,,,Visual Concepts,,,372
+373,2K Sports,,,,,Visual Concepts,,,373
+374,2K Sports,,,,,Visual Concepts,,,374
+375,2K Sports,,,,,Visual Concepts,,,375
+376,2K Sports,,,,,Visual Concepts,,,376
+377,2K Sports,,,,,Venom Games,,,377
+378,2K Sports,,,,,PAM Development,,,378
+379,Global Star Software,,,,,Cat Daddy Games,,,379
+380,2K Games,,,,,Firaxis Games,Gamebryo,,380
+381,2K Sports,,,,,Visual Concepts,,,381
+382,2K Sports,,,,,Visual Concepts,,,382
+383,2K Sports,,,,,Visual Concepts,,,383
+384,2K Sports,,,,,Visual Concepts,,,384
+385,2K Sports,,,,,Visual Concepts,,,385
+386,2K Sports,,,,,Visual Concepts,,,386
+387,2K Sports,,,,,Visual Concepts,,,387
+388,2K Sports,,,,,Visual Concepts,,,388
+389,2K Sports,,,,,Blue Castle Games,,,389
+390,2K Play,,,,,Cat Daddy Games,,,390
+391,2K Sports,,,,,Visual Concepts,,,391
+392,2K Sports,,,,,Visual Concepts,,,392
+393,2K Play,Matus Siroky,"Jan Kokolia,Jan Kottman,Martin Kadlcik,Peter Bilek",,,Silver Wish Games,,,393
+394,2K Games,"Sascha Dikiciyan,Cris Velasco,Jesper Kyd","Brian Martel,Jennifer Wildes,Jim Sanders","Allison Berryman,Mikey Neumann,Randy Pitchford","Steven Jones,Patrick Dupree,Jimmy Sieben",Gearbox Software,Unreal Engine 3,,394
+395,2K Games,Garry Schyman,,Jordan Thomas,,2K Marin,Unreal Engine 2.5,Jordan Thomas,395
+396,2k Play,,,,,"The Odd Gentleman,2K China",,,396
+397,2K Sports,,,,,Visual Concepts,,,397
+398,2K Games,"Matus Siroky,Adam Kuruc",Roman Hladik,"Jack Scalici,Daniel Vavra","Laurent Gorga,Michal Janacek,Dan Dolezel",2K Czech,,,398
+399,2K Sports,,,,,Visual Concepts,,,399
+400,2K Play,,,,,Cat Daddy Games,,,400
+401,"2K Games,Aspyr",,"Dorian Newcomb,Chris Hickman,Brian Busatti","Michelle Menard,Paul Murphy","Brian Wade,Tim Kipp,Ed Beach",Firaxis Games,,Jon Shafer,401
+402,2K Sports,,,,,Visual Concepts,,,402
+403,2K Sports,,,,,Visual Concepts,,,403
+404,2K Sports,,,,,2K Czech,PAM Engine,,404
+405,"2K Games,Aspyr Media",,,"Valenta Wensloff,Kristen Haglund,Dvid Riegel",,3D Realms,Unreal Engine,,405
+406,2K Games,,,,,Firaxis Games,,,406
+407,2K Play,,,,,High Voltage Software,,,407
+408,2K Sports,,,,,Visual Concepts,,,408
+409,2K Games,,Mat Tremblay,Paul Jenkins,"Glen Miner,Darryl Baldock",Digital Extremes,,Sheldon Carter,409
+410,2K Sports,,,,,Visual Concepts,,,410
+411,2K Games,,"Mathias Wiese,Jason Flanagan","Ricard Pearsey,Walt Williams","Hendrik Hoenicke,Andre Dittrich",Yager Development,Unreal Engine 3,"Cory Davis,Francois Coulon",411
+412,2K Games,,Jeramy Cooke,Anthony Burch,Steven Jones,Gearbox Software,Unreal Engine 3,Paul Hellquist,412
+413,2K Sports,,,,,Visual Concepts,,,413
+414,"2K Games,Feral Interactive",,Gregory Foertsch,"Scott Wittbecker,Liam Collins",Casey O'Toole,Firaxis Games,Unreal Engine 3,,414
+415,2K Sports,,,,,Visual Concepts,,,415
+416,2K Sports,,,,,Visual Concepts,,,416
+417,2K Games,,Scott Sinclair,Ken Levine,Christopher Kline,Irrational Games,Unreal Engine 3,Ken Levine,417
+418,2K Games,,Jeff Weir,Erik Caponi,,2K Marin,Unreal Engine 3,Morgan Gray,418
+419,2K Sports,,,,,Visual Concepts,,,419
+420,2K Sports,,,,,Yuke's,,,420
+421,2K Games,,,,,"Firaxis Games,2K China",,,421
+422,2K Sports,,,,,Visual Concepts,,,422
+423,2K Games,,,,,"2K Australia,Gearbox Software",Unreal Engine 3,,423
+424,"Sega Sports(2000-2004),2K Sports(2005-2017)",,,,,"Black Box Games,Visual Concepts,Virtuos,Cat Daddy Games,Wahoo Studios,Koolhaus Games",,,424
+425,2K Games,,Michael R.Bates,"Rex Martin,Peter Murray,Walt Williams,Scott Wittbecker",Don Wueschell,Firaxis Games,cf.LORE,,425
+426,"2K Games,2K Sports",,,,," Yuke's,n-Space(Mobile Version)",,,426
+427,2K Games,,Phil Robb,,,Turtle Rock Studios,CryEngine,Phil Robb,427
+428,2K Games,,,,,Firaxis Games,,,428
+429,2K Games,,,,,Gearbox Software,Unreal Engine 3,,429
+430,2K Games,,,,,"n-space,Visual Concepts",,,430
+431,2K Sports,,,,,Visual Concepts,,,431
+432,2K Sports,,,,,Yuke's,,,432
+433,2K Games,,Gregory Foertsch,Scott Wittbecker,Ryan McFall,Firaxis Games,Unreal Engine 3.5,Jake Solomon,433
+434,Telltale Games,,"Dave Bogan,Leif Estes,Tara Rueping ",Pierre Shorette,"Tulley Rafferty,Jason Kim,Carl Muckenhoupt,David R. Chaverri",Telltale Games,,"Nick Herman,Jonathan Stauder,Ashley Ruhl,Martin Montgomery",434
+435,2K Games,,,Aaron Linde,,Gearbox Software,Unreal Engine 3,Randy Vamell,435
+436,2K Games,,,,,Blind Squirrel Games,,,436
+437,2K Sports,,,,,Visual Concepts,,,437
+438,2K Games,,David Smith,William Harms,Laurent Gorga,Hangar 13,,Haden Blackman,438
+439,2K Sports,,,,,Yuke's,,,439
+440,2K Games,,Brian Busatti,,,Firaxis Games,,,440
+441,2K Sports,,,,,Visual Concepts,,,441
+442,2K Sports,,,,,Yuke's,,,442
+443,2K Sports,,,,,Visual Concepts,,,443
+444,2K Sports,,,,,Yuke's,,,444
+445,2K Sports,,,,,Visual Concepts,,,445
+446,2K Games,,Scott Kester,"Danny Homan,Sam Winkler,Connor Thomas Cleary",,Gearbox Software,Unreal Engine 4,Paul Sage,446
+447,2K Sports,,,,,Yuke's,,,447
+448,XBOX Game Studies,,,,,Mojang,,Mans Olsen,448
+449,XBOX Game Studies,,,,,Mojang,,,449
+450,Telltale Story Mode,,,,,Telltale Games,,,450
+451,Mojang,C418,Markus Toivonen,,,Mojang,,,451
+452,Microsoft Game Studios,Tom Holkenborg,John Wendle,,Garrett Young,Turn 10 Studios,,,452
+453,Microsoft Game Studios,,,,,Turn 10 Studios,,,453
+454,Microsoft Game Studios,,,,,Turn 10 Studios,,,454
+455,Microsoft Game Studios,,,,,Turn 10 Studios,,,455
+456,Microsoft Studios,,,,,Turn 10 Studios,,,456
+457,Microsoft Studios,,,,,Turn 10 Studios,,,457
+458,Microsoft Studios,,Scott Lee,,,Turn 10 Studios,,Bill Giese,458
+459,Microsoft Studios,,,,,Playground Games,,,459
+460,Microsoft Studios,,,,,Playground Games,,,460
+461,Microsoft Studios,,Benjamin Penrose,,Alan Roberts,Playground Games,,,461
+462,Microsoft Studios,,,,,Playground Games,,Ralph Fulton,462
+463,Bethesda Softworks,Masafumi Takada,Naoki Katakai,Itaru Yokoyama,Hideaki Nakata,Tango Gameworks,id Tech 5,Shinji Mikami,463
+464,Bethesda Softworks,Masatoshi Yanagi,,Trent Hagaa,Toshihiko Tsuji,Tango Gameworks,,John Johanas,464
+465,Eidos Interactive,Jesper Kyd,,Morten Iversen,,IO Interactive,,,465
+466,Eidos Interactive,Jesper Kyd,,Morten Iversen,,IO Interactive,,,466
+467,Eidos Interactive,Jesper Kyd,,Greg Nagan,,IO Interactive,,,467
+468,Eidos Interactive,Jesper Kyd,Tore Blystad,Greg Nagan,,IO Interactive,,Rasmus Hojengaard,468
+469,Square Enix,Niels Bye Nielson,Jonarhan Rowe,Micheal Vogt,Mogens Hvidfelt,IO Interactive,,Christian Elverdam,469
+470,Warner Bros. Interactive Entertainment,Niels Bye Nielson,,Micheal Vogt,Maurizio De Pascale,IO Interactive,,Christian Elverdam,470
+471,Square Enix,,,,,Square Enix Montreal,Unity,Daniel Lutz,471
+472,Square Enix,,,,,Square Enix Montreal,Unity,,472
+473,Sony Computer Entertainment,Ron Fish,Charlie Wen,Marianne Krawczyk,Tim Moss,SCE Santa Monica Studio,Kinetica,David Jaffe,473
+474,Sony Computer Entertainment,Ron Fish,Stig Asmussen,Marianne Krawczyk,Tim Moss,SCE Santa Monica Studio,Kinetica,,474
+475,Sony Pictures Digital,,,Marianne Krawczyk,,Javaground SOE Los Angeles,,Phillip Cohen,475
+476,Sony Computer Entertainment,Gerard Marino,,Marianne Krawczyk,,Ready At Dawn,,Ru Weerasuriya,476
+477,Sony Computer Entertainment,,,,,SCE Santa Monica Studio,Bluepoint Engine,,477
+478,Sony Computer Entertainment,Gerard Marino,Ken Feldman,Marianne Krawczyk,Vassily Filippov,SCE Santa Monica Studio,,Stig Asmussen,478
+479,Sony Computer Entertainment,Gerard Marino,,Cory Barlog,Nicholas Baker,Ready At Dawn,,Dana Jan,479
+480,Sony Computer Entertainment,,,,,Ready At Dawn,,,480
+481,Sony Computer Entertainment,,,,,Ready At Dawn,,,481
+482,Sony Computer Entertainment,Tyler Bates,Christopher Sutton,Marianne Krawczyk,Vassily Filippov,SCE Santa Monica Studio,,,482
+483,Sony Interactive Entertainment,Bear McCreary,,Matt Sophos,Florian Strauss,SIE Santa Monica Studio,,,483
+484,,,,,,Benett Foddy,Unity,,484
+485,PUBG Corporation,Tom Salta,Tae-seok Jang,,,PUBG Corporation,Unreal Engine,Brendan Greene,485
+486,Sony Computer Entertainment,Greg Edmonson,Bob Rafei,Amy Hennig,Travis McIntosh,Naughty Dog,,Amy Hennig,486
+487,Sony Computer Entertainment,Clint Bajakian,,John Garvin,,SCE Bend Studio,,John Garvin,487
+488,Sony Computer Entertainment,Henry Jackman,Robh Ruppel,Josh Scherr,Jason Gregory,Naughty Dog,,Bruce Straley,488
+489,Sony Interactive Entertainment,Henry Jackman,Tate Mosesian,Josh Scherr,Jason Gregory,Naughty Dog,,Kurt Margenau,489
+490,Sony Computer Entertainment,Jason Graves,,Larry Fessenden,,Supermassive Games,Decima,Will Byles,490
+491,Parker Brothers,David Limkins,,,,,,,491
+492,Adventure International,,,,Scott Adams,,,,492
+493,Paragon Software,Steven W.Green,,,"Kevin Ayre,John Wood",Oxford Digital Enterprises,,,493
+494,Nintendo,David Wise,,,Chris Sutherland,Rare,,,494
+495,Sega,,,,,Technopop,,,495
+496,Acclaim Entertainment,,,,,,,,496
+497,Sega,,,,,Sega,,,497
+498,"LJN,Flying Edge",,,,,Bits Studios,,,498
+499,Acclaim Entertainment,,,,,Software Creations,,,499
+500,Acclaim Entertainment,,,,,Software Creations,,,500
+501,Acclaim Entertainment,,,,,Western Technologies,,,501
+502,Acclaim Entertainment,,,,,Software Creations,,,502
+503,Sega,,"Chris Kreidel,Drew Krevi,John Whitson",Curtis Clarkson,"Brian Belfield,Keith Freihit",BlueSky Software,,,503
+504,Activision,,Chris Ward,,Dave Cowling,"Neversoft,Treyarch,Edge of Reality",,,504
+505,Byron Preiss Multimedia,,,,,Brooklyn Multimedia,,,505
+506,Activision,,Yaming Di,"T.Q.Jefferson,Brent Boylen,Marc Turndorf,Joshua Mosqueira","Chris McEvoy,Dave Calvin",Vicarious Visions,Neversoft Spider-Man Engine,,506
+507,Activision,,,,,Vicarious Visions,,,507
+508,Activision,,,,,"Treyarch,LTI Gray Matter(PC),Digital Eclipse(GBA)",Treyarch NGL,,508
+509,Activision,,,,,"Treyarch,Digital Eclipse,The Fizz Factor,Aspyr,Vicarious Visions","Treyarch NGL(Console),Unreal Engine 2(PC)",,509
+510,Activision,,,Brian Michael Bendis,Charles Tolman,"Treyarch,Vicarious Visions",Treyarch NGL,Brian Michael Bendis,510
+511,Activision,,,,,Torus Games,,,511
+512,Activision,,David Dalzell,"Al Septien,Turi Meyer","Martin Donlon,Gregory John","Treyarch,Vicarious Visions,Beenox",Vicarious Visions Alchemy,Mark Nau,512
+513,Activision,,,,,"Next Level Games,Beenox,Artificial Mind and Movement",,,513
+514,Activision,,,,,"Shaba Games and Treyarch Aspyr Media,Griphonite Games,Amaze Entertainment",,,514
+515,Gameloft,,"Arthur Hugot,Mikael Robert",,Brice Ramard,Gameloft,,,515
+516,Activision,,,Dan Slott,,"Beenox,Griptonite Games(DS)",,,516
+517,Activision,,,Peter David,,Beenox,,,517
+518,Activision,,,"Seamus Kevin Fahey,John Zurhellen",,"Beenox,Other Ocean Interactive,Gameloft,Mercenary Technology",,,518
+519,Gameloft,,"Wng Rui,Arthur Hugot",,,Gameloft,,,519
+520,Activision,,,Christos Gage,,"Beenox,Gameloft,High Voltage Software",,,520
+521,Gameloft,,,,,Gameloft,,Baptiste Marmey,521
+522,Sony Interactive Entertainment,,"Jacinda Chew,Grant Hollis","Jon Paquette,Benjamin Arfmann,Kelsey Beachum",Joe Valenzuela,Insomniac Games,,"Brian Horton,Bryan Intihar,Marcus Smith,Ryan Smith",522
+523,Rockstar San Diego,,"Daren Bader,Joseph Pileski,Carlos Pedroza",,Michael Kelley,Rockstar San Diego,,,523
+524,Rockstar Games,"Bill Elm,Woody Jackson","Joshua Bass,B=Daren Bader,Nick Trifunovic","Dan Houser,Michael Unsworth,Christian Cantamessa",Ted Carson,Rockstar San Diego,RAGE,,524
+525,Rockstar Games,"Bill Elm,Woody Jackson",,,,,RAGE,,525
+526,Rockstar Games,Woody Jackson,Aaron Garbut,"Dan Houser,Michael Unsworth,Christian Cantamessa",Phil Hooker,Rockstar Studios,RAGE,,526
+527,"Sierra Studios,Valve (digital)",,,,,Valve,GoldSrc,,527
+528,"Sierra Studios,Valve (digital)",,,,,Valve,GoldSrc,,528
+529,"Sierra Studios,Valve (digital)",,,,,Valve,GoldSrc,,529
+530,"Sierra Studios,Valve (digital)",,,,,Valve,GoldSrc,,530

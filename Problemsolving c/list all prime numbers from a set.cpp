@@ -1,0 +1,22 @@
+#include<stdio.h>
+main()
+{
+	int n,i,x,j,c=0;
+	scanf("%d",&n);
+	for(i=1;i<=n;i++)
+	{
+		x=i;
+		for(j=1;j<=x;j++)
+		{
+			if(x%j==0)
+			{
+				c++;
+			}
+		}
+		if(c==2)
+		{
+			printf("%d,",x);
+		}
+		c=0;
+	}
+}

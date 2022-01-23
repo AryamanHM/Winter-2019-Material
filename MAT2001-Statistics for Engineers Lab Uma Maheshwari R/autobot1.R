@@ -1,0 +1,6 @@
+year=c(1995,1996,1997,1998,1999,2000)
+annualsales=c(15.0,25.0,27.0,28.0,26.0,26.6)
+pf=data.frame(year,annualsales)
+table2=table(pf$year,pf$annualsales)
+barplot(table2,beside=T,xlim=c(0,10),ylim=c(0,1))
+legend("topright",legend=rownames(pf),fill=c('blue','red'),bty="n")
